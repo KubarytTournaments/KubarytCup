@@ -76,216 +76,332 @@
 ### 4.1. 
 
 > Szablon: mt_Jebus
+> 
 > Rozmiar mapy: L + U
+> 
 > Podziemia: Tak
+> 
 > Gracze ludzcy lub komputerowi: 2
+> 
 > Gracze komputerowi: 0
+> 
 > Drużyny: Brak drużyn
+> 
 > Typ drogi: Tylko najlepsze drogi (opcja po prawej stronie)
+> 
 > Woda: Brak
+> 
 > Siła potworów: Silne
+> 
 > Poziom trudności: 160%
+> 
 > Zasady turniejowe (tournaments rules): Tak
-> ronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 16:00+07:00+02:00 (po wyraźnej zgodzie obu
-graczy zegar może ulec zmianie).
-Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy
-długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Omijanie guardów: Nie
-Restarty: 1x111
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 16:00+07:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Omijanie guardów: Nie
+> 
+> Restarty: 1x111
 
-	4.2.
+### 4.2.
 
-	Szablon: mt_Firewalk 1.6e (2p; XL+U)
-Rozmiar mapy: XL
-Podziemia: Tak
-
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 0
-Drużyny: 0
-Typ drogi: Tylko najlepsze drogi (opcja po prawej stronie)
-Woda: Brak
-Siła potworów: Silne
-Poziom trudności: 130%
-Zasady turniejowe (Tournament Rules): Tak
-Chronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu
-graczy zegar może ulec zmianie).
-Tury jednoczesne: Tak, do 117 (po wyraźnej zgodzie obu graczy
-długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Restarty:1x111
-Dodatkowe zasady:
-I. Galthran wyłączony
-II. Orb of Inhibition (Kula przeciwstawienia) i Recanter’s Cloak
-(Płaszcz odwrócenia) włączone
-III. Nie występuje kartograf
-IV. Restart techniczny możliwy przy mocnym bloku, którego nie da
-się pokonać bez strat powyżej 50% stanu wojska w 111
-V. Brak smoczych utopii na mapie oznacza restart techniczny
-VI. Poprawiona wersje MT firewalk 1.6E nalezy pobrać z Link
-Omijanie guardów: Nie
+> Szablon: mt_Firewalk 1.6e (2p; XL+U)
+> 
+> Rozmiar mapy: XL
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 0
+> 
+> Drużyny: 0
+> 
+> Typ drogi: Tylko najlepsze drogi (opcja po prawej stronie)
+> 
+> Woda: Brak
+> 
+> Siła potworów: Silne
+> 
+> Poziom trudności: 130%
+> 
+> Zasady turniejowe (Tournament Rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 117 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Restarty:1x111
+> 
+> Dodatkowe zasady:
+> 
+> I. Galthran wyłączony
+> 
+> II. Orb of Inhibition (Kula przeciwstawienia) i Recanter’s Cloak (Płaszcz odwrócenia) włączone
+> 
+> III. Nie występuje kartograf
+> 
+> IV. Restart techniczny możliwy przy mocnym bloku, którego nie da się pokonać bez strat powyżej 50% stanu wojska w 111
+> 
+> V. Brak smoczych utopii na mapie oznacza restart techniczny
+> 
+> VI. Poprawiona wersje MT firewalk 1.6E nalezy pobrać z Link
+> 
+> Omijanie guardów: Nie
 	
-	4.3.
+### 4.3.
 	
-	Szablon: 6lm10a
-Rozmiar mapy: XL+U
-Podziemia: Tak
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 6
-Drużyny: 0
-Typ drogi: Tylko średnie drogi (opcja środkowa)
-Woda: Brak
+> Szablon: 6lm10a
+> 
+> Rozmiar mapy: XL+U
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 6
+> 
+> Drużyny: 0
+> 
+> Typ drogi: Tylko średnie drogi (opcja środkowa)
+> 
+> Woda: Brak
+> 
+> Siła potworów: Silne
+> 
+> Poziom trudności: 160%
+> 
+> Zasady turniejowe (Tournament Rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Restarty: 2x111 lub 1x112
+> 
+> Dodatkowe zasady:
+> 
+> Wybór zamków dla Graczy Komputerowych jest losowy.
 
-Siła potworów: Silne
-Poziom trudności: 160%
-Zasady turniejowe (Tournament Rules): Tak
-Chronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu
-graczy zegar może ulec zmianie).
-Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy
-długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Restarty: 2x111 lub 1x112
-Dodatkowe zasady:
-Wybór zamków dla Graczy Komputerowych jest losowy.
+### 4.4.
 
-4.4.
+> Szablon: Nostalgia
+> 
+> Rozmiar mapy: XL+U
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 6
+> 
+> Drużyny: Brak drużyn
+> 
+> Typ drogi: Tylko szybkie drogi (opcja ostatnia z prawej)
+> 
+> Woda : Brak
+> 
+> Siła potworów: Silne
+> 
+> Poziom trudności: 160%
+> 
+> Zasady turniejowe (tournaments rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 117 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Restarty : 2x 111 / 1x 112
+> 
+> Dodatkowe zasady: 
+> 
+> Pierwsze 3 komputery należą do gracza czerwonego, pozostałe 3 do gracza niebieskiego. Jako pierwszy zamek dla jednego ze swoich komputerów wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz
 
-Szablon: Nostalgia
-Rozmiar mapy: XL+U
-Podziemia: Tak
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 6
-Drużyny: Brak drużyn
-Typ drogi: Tylko szybkie drogi (opcja ostatnia z prawej)
-Woda: Brak
-Siła potworów: Silne
-Poziom trudności: 160%
-Zasady turniejowe (tournaments rules): Tak
-Chronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
-Tury jednoczesne: Tak, do 117 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Restarty : 2x 111 / 1x 112
-Dodatkowe zasady: 
-Pierwsze 3 komputery należą do gracza czerwonego, pozostałe 3 do gracza niebieskiego. Jako pierwszy zamek dla jednego ze swoich komputerów wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz
+### 4.5.
 
-4.5.
+> Szablon: h3dm1
+> 
+> Rozmiar mapy: L+U
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 0
+> 
+> Drużyny: Brak drużyn
+> 
+> Typ drogi: Tylko średnie drogi (opcja środkowa)
+> 
+> Woda: Brak
+> 
+> Siła potworów: Silne
+> 
+> Poziom trudności: 160%
+> 
+> Zasady turniejowe (tournaments rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 115 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Restarty: 1x111
 
-Szablon: h3dm1
-Rozmiar mapy: L+U
-Podziemia: Tak
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 0
-Drużyny: Brak drużyn
-Typ drogi: Tylko średnie drogi (opcja środkowa)
-Woda: Brak
-Siła potworów: Silne
-Poziom trudności: 160%
-Zasady turniejowe (tournaments rules): Tak
-Chronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 19:00+08:00+02:00 (po wyraźnej zgodzie obu
-graczy zegar może ulec zmianie).
-Tury jednoczesne: Tak, do 115 (po wyraźnej zgodzie obu graczy
-długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Restarty: 1x111
+### 4.6.
 
-4.6.
+> Szablon: Kubaryt
+> 
+> Rozmiar mapy: XL+U
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 6
+> 
+> Drużyny: Brak drużyn
+> 
+> Typ drogi: Tylko średnie drogie (opcja środkowa)
+> 
+> Woda: brak
+> 
+> Siła potworów: Silne
+> 
+> Poziom trudności: 160%
+> 
+> Zasady turniejowe (tournaments rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 17:00+7:00+2:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie)
+> 
+> Tury jednoczesne: Tak, do 125 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
+> 
+> Restarty: 2x111 1x112
+> 
+> Dodatkowe zasady:
+> 
+> Wybór zamku dla graczy komputerowych: czerwony gracz wybiera zamek dla gracza brązowego i fioletowego, a niebieski dla zielonego i pomarańczowego, jeden zamek nie może zostać wybrany dwukrotnie. Pozostali gracze komputerowi mają losowe zamki.
 
-Szablon: Kubaryt
-Rozmiar mapy: XL+U
-Podziemia: Tak
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 6
-Drużyny: Brak drużyn
-Typ drogi: Tylko średnie drogie (opcja środkowa)
-Woda: brak
-Siła potworów: Silne
-Poziom trudności: 160%
-Zasady turniejowe (tournaments rules): Tak
-Chronione zapisy: Tak
-Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 17:00+7:00+2:00 (po wyraźnej zgodzie obu
-graczy zegar może ulec zmianie)
-Tury jednoczesne: Tak, do 125 (po wyraźnej zgodzie obu graczy
-długość tur jednoczesnych może ulec zmianie).
-Neutralna walka PvP: Nie
-Restarty: 2x111 1x112
-Dodatkowe zasady:
-Wybór zamku dla graczy komputerowych: czerwony gracz wybiera zamek dla gracza brązowego i fioletowego, a niebieski dla	zielonego i pomarańczowego, jeden zamek nie może zostać wybrany dwukrotnie. Pozostali gracze komputerowi mają losowe zamki.
+### 4.7
 
-4.7
-	Szablon: Rally
-	Rozmiar mapy: XL+U
-	Podziemia: Tak
-	Gracze ludzcy lub komputerowi: 2
-	Gracze komputerowi: 6
-	Drużyny: Brak drużyn
-	Typ drogi: Tylko szybkie drogi (opcja po prawej stronie)
-	Woda: Brak
-	Siła potworów: Silne
-	Restarty: 2x111 lub 1x112
-	Poziom trudności: 130%
-	Zasady turniejowe (tournaments rules): Tak
-	Chronione zapisy: Tak
-	Wystartuj czasomierz po wciśnięciu OK: Tak
-Zegar: Szachowy, 21:00+08:00+02:00 (po wyraźnej zgodzie obu	graczy zegar może ulec zmianie).
-	Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy	długość tur jednoczesnych może ulec zmianie).
-	Neutralna walka PvP: Nie
-4.7
-     Szablon: Lkubaryt
-Zasady w LKubaryt.md na githubie: https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/LKubaryt
+> Szablon: Rally
+> 
+> Rozmiar mapy: XL+U
+> 
+> Podziemia: Tak
+> 
+> Gracze ludzcy lub komputerowi: 2
+> 
+> Gracze komputerowi: 6
+> 
+> Drużyny: Brak drużyn
+> 
+> Typ drogi: Tylko szybkie drogi (opcja po prawej stronie)
+> 
+> Woda: Brak
+> 
+> Siła potworów: Silne
+> 
+> Restarty: 2x111 lub 1x112
+> 
+> Poziom trudności: 130%
+> 
+> Zasady turniejowe (tournaments rules): Tak
+> 
+> Chronione zapisy: Tak
+> 
+> Wystartuj czasomierz po wciśnięciu OK: Tak
+> 
+> Zegar: Szachowy, 21:00+08:00+02:00 (po wyraźnej zgodzie obu graczy zegar może ulec zmianie).
+> 
+> Tury jednoczesne: Tak, do 121 (po wyraźnej zgodzie obu graczy długość tur jednoczesnych może ulec zmianie).
+> 
+> Neutralna walka PvP: Nie
 
-Restarty
+### 4.8
+
+> Szablon: LKubaryt
+> Zasady w LKubaryt.md na githubie: https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/LKubaryt
+
+## 5. Restarty
 5.1. Pierwszą decyzję o restarcie podejmuje gracz czerwony, a następnie gracz niebieski. (Jeśli nastąpi sytuacja, kiedy gracz niebieski odda turę z chęcią restartu, a następnie gracz czerwony odda turę i nastąpi kolejny dzień, gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie gracz niebieski jest zobowiązany do grania mapy).
+
 5.2. Graczom przysługują tzw. restarty techniczne. Restarty techniczne są dostępne, gdy mapa jest zbugowana, brakuje przejścia do kolejnych stref, w strefie startowej nie ma żadnej wioski czy w sytuacji, gdy na drodze stoi strażnik, który uniemożliwia dalszą eksplorację mapy czy rozwój. Może to nastąpić w 111 lub 112. Decyzja o restarcie technicznym musi być podjęta przez sędziego.
-5.3. Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 115 dla szybkich dróg, 116 dla średnich, 117 dla wolnych. 
-Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). 
+
+5.3. Restarty wczesnego spotkania. Jeśli nastąpi interakcja między graczami w zbyt wczesnej turze, każdy z graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 115 dla szybkich dróg, 116 dla średnich, 117 dla wolnych. Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). 
 Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
+
 Zasada nie dotyczy mirrorów (szablonów lustrzanych).
 
-Zasady fair play
-	6.1. Zakaz wykorzystywania crashów do zyskania przewagi. Po
-wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na
-mapie przygody oraz w walkach w danej turze w której nastąpił błąd.
-Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi.
-Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużona przewagę.
-6.2. Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony.
-Porady (osoba trzecia dostarcza graczowi informacje które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst: Dozwolone
-Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo: Zakazane
-Spoilery (osoba trzecia dostarcza graczowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki): Zakazane - jeśli gracz przeczyta spoiler powinien grać tak jakby go nie widział.
-Ghosting (oglądanie streama przeciwnika): Zakazane
-Programy czytające pamięć gry - na przykład żeby zobaczyć mapę lub przewidzieć rozwój bohatera: Zakazane
-Kalkulatory value: Dozwolone
-Kalkulatory damage: Dozwolone
-Strony wiki: Dozwolone
-Nagranie swojego streama: Dozwolone
-Screenshoty: Dozwolone
-Poradniki wideo: Dozwolone
-Własne notatki o grze: Dozwolone
+## 6. Zasady fair play
+6.1. Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużona przewagę.
+
+6.2. Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
+- Porady (osoba trzecia dostarcza graczowi informacje które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst: Dozwolone
+- Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo: Zakazane
+- Spoilery (osoba trzecia dostarcza graczowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki): Zakazane - jeśli gracz przeczyta spoiler powinien grać tak jakby go nie widział.
+- Ghosting (oglądanie streama przeciwnika): Zakazane
+- Programy czytające pamięć gry - na przykład żeby zobaczyć mapę lub przewidzieć rozwój bohatera: Zakazane
+- Kalkulatory value: Dozwolone
+- Kalkulatory damage: Dozwolone
+- Strony wiki: Dozwolone
+- Nagranie swojego streama: Dozwolone
+- Screenshoty: Dozwolone
+- Poradniki wideo: Dozwolone
+- Własne notatki o grze: Dozwolone
+
 6.3. W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć tutaj. Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
 
 
-Zakończenie gry
-Po rozegraniu gry, przegrany gracz wpisuje “gg”, jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z meczu.
+## 7. Zakończenie gry
+- Po rozegraniu gry, przegrany gracz wpisuje “gg”, jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z meczu.
 Raport ze spotkania należy składać na stronie www.h3.gg. Musi on zostać potwierdzony przez przeciwnika albo sędziego. 
 Po zakończeniu meczu gracze są zobowiązani do podania haseł, które chronią zapisy gry.
 
 
-Przydatne linki:
-Discord Serwer Qbatura
+- Przydatne linki:
+	* [Discord Kubaryt Tournamets](https://discord.gg/xcw8zWJQsR)
 
-Organizatorem turnieju jest <Kubaryt>:
-Twitch: Kubaryt08
-Discord: Kubaryt#3655
-www.h3.gg: Kubaryt
+- Organizatorem turnieju jest Kubaryt:
+	* Twitch: Kubaryt08
+	* Discord: Kubaryt#3655
+	* www.h3.gg: Kubaryt
 
 
