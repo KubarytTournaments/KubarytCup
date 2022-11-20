@@ -1,92 +1,92 @@
 # Turniej Kubaryt Cup
 
 ## 1. Wstęp
-  1.1. Organizatorem turnieju jest Jakub “Kubaryt” Starzyk
+1.1. Organizatorem turnieju jest Jakub “Kubaryt” Starzyk
   
-  1.2. Sędzia oraz kontakt do niego na discordzie: Kubaryt#4655
+1.2. Sędzia oraz kontakt do niego na discordzie: Kubaryt#4655
   
-  1.3. Warunkiem uczestnictwa w turnieju jest przeczytanie oraz zaakceptowanie regulaminu turnieju.
+1.3. Warunkiem uczestnictwa w turnieju jest przeczytanie oraz zaakceptowanie regulaminu turnieju.
   
-  1.4. Warunkiem dołączenia do turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 09.07.2021 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup”).
+1.4. Warunkiem dołączenia do turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 09.07.2021 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup”).
   
-  1.5. Turniej jest przeznaczony dla osób mieszkających w Polsce (także dla osób urodzonych w Polsce, lecz mieszkających poza nią) bez wpisowego!
+1.5. Turniej jest przeznaczony dla osób mieszkających w Polsce (także dla osób urodzonych w Polsce, lecz mieszkających poza nią) bez wpisowego!
   
-  1.6. Głównym kanałem komunikacyjnym jest Discord. Zaproszenie do niego znajdziecie w [linku](https://discord.gg/xcw8zWJQsR).
+1.6. Głównym kanałem komunikacyjnym jest Discord. Zaproszenie do niego znajdziecie w [linku](https://discord.gg/xcw8zWJQsR).
   
-  1.7. Turniej nie posiada nagród.
+1.7. Turniej nie posiada nagród.
   
 
 ## 2. Przebieg Turnieju
-  2.1. Turniej ma dwie fazy: eliminacje grupowe i fazę pucharową.
+2.1. Turniej ma dwie fazy: eliminacje grupowe i fazę pucharową.
   
-	2.2. Losowanie grup odbędzie się 09.07. Odbędzie się za pośrednictwem strony www.h3.gg. Po wylosowaniu grup, można rozpocząć rozgrywanie potkań, dokładne terminy będą się pojawiać na Discordzie [link](https://discord.gg/xcw8zWJQsR).
+2.2. Losowanie grup odbędzie się 09.07. Odbędzie się za pośrednictwem strony www.h3.gg. Po wylosowaniu grup, można rozpocząć rozgrywanie potkań, dokładne terminy będą się pojawiać na Discordzie [link](https://discord.gg/xcw8zWJQsR).
   
-  2.3. Przebieg fazy grupowej:Gracze zostaną rozstawieni po 4 na grupe.
-  W grupach gracze grają w systemie każdy z każdym.
-  Za wygranie meczu gracz otrzymuje 1 punkt, za porażkę 0 punktów. Jeśli gra zakończy się remisem, mecz należy rozegrać ponownie.
-  Do fazy pucharowej awansuje 2 graczy z grupy z największą liczbą punktów.
-  W przypadku uzyskania przez graczy tej samej liczby punktów w grupie, o pozycji decyduje wynik meczu bezpośredniego.
-  W przypadku trzech lub więcej graczy z taką samą liczbą punktów i bez jednoznacznego wygranego w meczach bezpośrednich (na przykład A > B, B > C, C > A) decyduje dogrywka.
-  Obowiązuje system rozgrywek BO1 (Best Of 1)
-	2.4. Szablony w fazie grupowej:
-  mt_Jebus
-  6lm10a
-Kubaryt [Link do pobrania]
-h3dm1
-mt_Firewalk 1.6e [Link do pobrania]
-Rally
-Nostalgia
-2.5. Przebieg fazy pucharowej:
-Wygrany meczu przechodzi do następnej rundy w fazie pucharowej, przegrany zostaje wyeliminowany.
-Obowiązuje BO3 (Po wyraźnej zgodzie obu graczy system rozgrywania spotkania można dostosować).
-	2.6. Szablony w fazie pucharowej:
-6lm10a
-h3dm1
-mt_firewalk 1.6e
-LKubaryt
-Rally
-         2.7. Przebieg finału                                       
-Dwóch zwycięzców fazy pucharowej przechodzi do finału, który odbędzie się w formule bo3.
-Szablony w finale będą takie jak w fazie pucharowej.         
-	2.8. Każdy gracz ma prawo do poddania dowolnej liczby meczów w każdej
-fazie turnieju bez podania wyraźnej przyczyny. W wyżej wymienionym
-przypadku gracz dostaje tzw. walkowera.
+2.3. Przebieg fazy grupowej:
+- Gracze zostaną rozstawieni po 4 na grupe. 
+- W grupach gracze grają w systemie każdy z każdym. Za wygranie meczu gracz otrzymuje 1 punkt, za porażkę 0 punktów. 
+- Jeśli gra zakończy się remisem, mecz należy rozegrać ponownie. 
+- Do fazy pucharowej awansuje 2 graczy z grupy z największą liczbą punktów. 
+- W przypadku uzyskania przez graczy tej samej liczby punktów w grupie, o pozycji decyduje wynik meczu bezpośredniego. W przypadku trzech lub więcej graczy z taką samą liczbą punktów i bez jednoznacznego wygranego w meczach bezpośrednich (na przykład A > B, B > C, C > A) decyduje dogrywka. 
+- Obowiązuje system rozgrywek BO1 (Best Of 1)
+  
+2.4. Szablony w fazie grupowej:
+- mt_Jebus
+- 6lm10a
+- Kubaryt [Link do pobrania](https://github.com/Kubaryt/Kubaryt/blob/HotA-templates/Kubaryt.zip)
+- h3dm1
+- mt_Firewalk 1.6e [Link do pobrania](https://drive.google.com/file/d/1qiY1hfqBHPPKtmFewsRsFloaKk4MObJG/view?fbclid=IwAR0hbmSO_jeuGExV8xgtAxFNvEtluaH8GriAIEj6ZNIvgv18ELbMNeGnFQM)
+- Rally
+- Nostalgia
 
- Rozgrywka
-	3.1. Mecze powinny się odbywać za pośrednictwem dostępnego w
-dodatku HotA lobby. W przypadku gdy lobby nie jest dostępne, mecz
-można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+2.5. Przebieg fazy pucharowej: 
+- Wygrany meczu przechodzi do następnej rundy w fazie pucharowej, przegrany zostaje wyeliminowany.
+- Obowiązuje BO3 (Po wyraźnej zgodzie obu graczy system rozgrywania spotkania można dostosować).
+
+2.6. Szablony w fazie pucharowej:
+- 6lm10a
+- h3dm1
+- mt_firewalk 1.6e
+- LKubaryt
+- Rally
+
+2.7. Przebieg finału: 
+- Dwóch zwycięzców fazy pucharowej przechodzi do finału, który odbędzie się w formule bo3.
+- Szablony w finale będą takie jak w fazie pucharowej.         
+
+2.8. Każdy gracz ma prawo do poddania dowolnej liczby meczów w każdej fazie turnieju bez podania wyraźnej przyczyny. W wyżej wymienionym przypadku gracz dostaje tzw. walkowera.
+
+## 3. Rozgrywka
+3.1. Mecze powinny się odbywać za pośrednictwem dostępnego w dodatku HotA lobby. W przypadku gdy lobby nie jest dostępne, mecz można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+
 3.2. Jeden z graczy zakłada pokój w Lobby HotA.
-3.3. Gracz dołączający do lobby wybiera cyfrę 0 lub 1, gospodarz wykonuje rzut monetą (opcja dostępna w zakładce PVP-options). Zawodnik, który wygrał rzut monetą rozpoczyna proces eliminacji szablonów. 
-W grach BO1 gracze banują na przemian, aż do pozostawienia jednego szablonu.
-W grach BOX, gracze banują na przemian, aż do pozostawienia X szablonów. Gracze wybierają szablony do gry na przemian, zaczynając od gracza który zbanował przedostatni szablon. Wszystkie gry muszą odbywać się na różnych szablonach. 
 
-	3.4. Wybór koloru oraz zamku
+3.3. Gracz dołączający do lobby wybiera cyfrę 0 lub 1, gospodarz wykonuje rzut monetą (opcja dostępna w zakładce PVP-options). Zawodnik, który wygrał rzut monetą rozpoczyna proces eliminacji szablonów. W grach BO1 gracze banują na przemian, aż do pozostawienia jednego szablonu. W grach BOX, gracze banują na przemian, aż do pozostawienia X szablonów. Gracze wybierają szablony do gry na przemian, zaczynając od gracza który zbanował przedostatni szablon. Wszystkie gry muszą odbywać się na różnych szablonach. 
 
-Na szablonach nie lustrzanych (bez dopisku mt oraz szablon h3dm1):
-Wybór miast następuje przez kliknięcie Random Town vs Random Town (opcja dostępna w zakładce PvP-options).
-Gracze mogą zbanować 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć zbanowania deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na gracza.
-Licytację o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga natomiast do koloru.
-Na szablonach lustrzanych (z dopiskiem mt oraz szablon h3dm1):
-Wybór miasta następuje przez kliknięcie Random Town (opcja dostępna w zakładce PvP-options).
-Gracze mogą zbanować wylosowane miasto za opłatą 500 sztuk złota. Pierwszy chęć zbanowania deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na gracza.
-Licytację o kolor zaczyna gracz, który wygrał rzut monetą.
-Gracz czerwony banuje 0-3 bohaterów a gracz niebieski pierwszy wybiera bohatera, wybór premii początkowej należy do gracza czerwonego.
-Szablony
-	4.1. 
+3.4. Wybór koloru oraz zamku:
+- Na szablonach nie lustrzanych (bez dopisku mt oraz szablon h3dm1):
+	* Wybór miast następuje przez kliknięcie Random Town vs Random Town (opcja dostępna w zakładce PvP-options). Gracze mogą zbanować 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć zbanowania deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na gracza.
+	* Licytację o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga natomiast do koloru.
+- Na szablonach lustrzanych (z dopiskiem mt oraz szablon h3dm1):
+	* Wybór miasta następuje przez kliknięcie Random Town (opcja dostępna w zakładce PvP-options). Gracze mogą zbanować wylosowane miasto za opłatą 500 sztuk złota. Pierwszy chęć zbanowania deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na gracza.
+	* Licytację o kolor zaczyna gracz, który wygrał rzut monetą.
+	* Gracz czerwony banuje 0-3 bohaterów a gracz niebieski pierwszy wybiera bohatera, wybór premii początkowej należy do gracza czerwonego.
 
-Szablon: mt_Jebus
-Rozmiar mapy: L + U
-Podziemia: Tak
-Gracze ludzcy lub komputerowi: 2
-Gracze komputerowi: 0
-Drużyny: Brak drużyn
-Typ drogi: Tylko najlepsze drogi (opcja po prawej stronie)
-Woda: Brak
-Siła potworów: Silne
-Poziom trudności: 160%
-Zasady turniejowe (tournaments rules): Tak
-Chronione zapisy: Tak
+## 4. Szablony
+
+### 4.1. 
+
+> Szablon: mt_Jebus
+> Rozmiar mapy: L + U
+> Podziemia: Tak
+> Gracze ludzcy lub komputerowi: 2
+> Gracze komputerowi: 0
+> Drużyny: Brak drużyn
+> Typ drogi: Tylko najlepsze drogi (opcja po prawej stronie)
+> Woda: Brak
+> Siła potworów: Silne
+> Poziom trudności: 160%
+> Zasady turniejowe (tournaments rules): Tak
+> ronione zapisy: Tak
 Wystartuj czasomierz po wciśnięciu OK: Tak
 Zegar: Szachowy, 16:00+07:00+02:00 (po wyraźnej zgodzie obu
 graczy zegar może ulec zmianie).
