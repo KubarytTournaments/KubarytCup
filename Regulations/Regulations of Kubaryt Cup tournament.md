@@ -4,7 +4,7 @@
 
 1.1. Tournament organizer is Jakub "Kubaryt" Starzyk.
 
-1.2. Judge and communication with him on Discord: Kubaryt#4656/
+1.2. Judge and communication with him on Discord: Kubaryt#4656.
 
 1.3. Condition of parcitiptiation in the tournament is reading and accepting the tournament rules.
 
