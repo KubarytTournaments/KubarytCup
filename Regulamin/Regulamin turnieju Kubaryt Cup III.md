@@ -2,7 +2,7 @@
 
 ## 1. Wstęp
 
-1.1 **Organizatorem** turnieju jest Jakub “Kubaryt” Starzyk
+1.1 Głównym **Organizatorem** turnieju jest Jakub “Kubaryt” Starzyk
 
 1.2 Organizatorzy, sędziowie i moderatorzy oraz kontakt do nich na discordzie: 
 
@@ -31,6 +31,8 @@
 - Gracz znany jest z braku szacunku do zasad fair play
 
 1.9 Organizator ma niewyłączne i niezbywalne prawo do retransmisji, nagrywania i udostępniania wybranych meczów rozgrywanych w Lidze w celu udostępniania komentarza i archiwizacji. Organizator może dzielić się tym prawem z osobami trzecimi.
+
+1.10 W sprawach nieujętych regulaminem główny **Organizator** ma decydujący głos.
 
 ## 2. Definicje
 
