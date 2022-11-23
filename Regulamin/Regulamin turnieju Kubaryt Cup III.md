@@ -6,7 +6,8 @@
 
 1.2 Organizatorzy, sędziowie i moderatorzy oraz kontakt do nich na discordzie: 
 
-- Kubaryt#4655 - Organizator, sędzia, moderator
+- Kubaryt#0707 - Organizator, sędzia
+- Malkiz#5589 - Organizator, sędzia
 - Czarny Kryształ#9389 - Sędzia
 - Proroc3Y|Official#6469 - Moderator
 
