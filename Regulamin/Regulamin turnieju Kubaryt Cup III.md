@@ -4,7 +4,7 @@
 
 1.1 Głównym **Organizatorem** turnieju jest Jakub “Kubaryt” Starzyk
 
-1.2 Organizatorzy, sędziowie i moderatorzy oraz kontakt do nich na discordzie: 
+1.2 Członkowie kadry oraz kontakt do nich na discordzie: 
 
 - Kubaryt#0707 - Organizator, sędzia
 - Malkiz#5589 - Organizator, sędzia
@@ -18,6 +18,7 @@
 1.5 Głównym kanałem komunikacyjnym jest **Discord**. Zaproszenie do niego znajdziecie w [linku](https://discord.gg/7GTrJwkNDN).
 
 1.6 Pula nagród turnieju:
+
 - I Miejsce: 150 zł
 - II Miejsce: 100 zł
 - III Miejsce: 50 zł
@@ -36,8 +37,8 @@
 
 ## 2. Definicje
 
-- Sędzia - osoba wybrana przez Organizatora do rozstrzygania sporów między graczami, przed, w trakcie i po meczu, oraz pilnowania przestrzegania przez graczy terminów. Sędzia może upominać, oraz karać graczy.
-- Moderator - osoba wybrana przez Organizatora, znajdująca się we sztabie **Discorda**, zajmuje się sprawami technicznymi związanymi z Discordem.
+- Sędzia - osoba wybrana przez **Organizatora** do rozstrzygania sporów między graczami, przed, w trakcie i po meczu, oraz pilnowania przestrzegania przez graczy terminów. Sędzia może upominać, oraz karać graczy.
+- Moderator - osoba wybrana przez **Organizatora**, znajdująca się we sztabie **Discorda**, zajmuje się sprawami technicznymi związanymi z **Discordem**.
 - Streamer - osoba transmitująca swoją partię w turnieju
 - Partia - pojedyncze spotkanie pomiędzy graczami
 - Mecz - wszystkie partie rozgrywane przez danego gracza w ramach aktualnej fazy turnieju (nie dotyczy fazy grupowej)
@@ -63,8 +64,8 @@
 
 - 6lm10a
 - Kubaryt [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
-- h3dm3.2 [Link do pobrania](https://drive.google.com/file/d/1_vqCxGMU0mKbl24YlRrZy70AMnU9upoF/view)
-- mt_Firewalk 1.6e [Link do pobrania](https://drive.google.com/file/d/1-1FzmJnq4WpegRBfIj1AZAzNop3JGEjG/view](https://drive.google.com/file/d/1qiY1hfqBHPPKtmFewsRsFloaKk4MObJG/view?fbclid=IwAR0hbmSO_jeuGExV8xgtAxFNvEtluaH8GriAIEj6ZNIvgv18ELbMNeGnFQM)
+- h3dm3.2 [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
+- mt_Firewalk 1.6e [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 - Nostalgia
 
 3.5 Przebieg fazy górnej drabinki (zwycięzców):
@@ -87,19 +88,22 @@
 - Nostalgia
 - mt_Firewalk 1.6e
 - mt_Andromeda 2.1  [Link do pobrania](https://drive.google.com/file/d/1__G_yHpYboAJvViRsdlREEuK7gLudGFk/view) (lub mt_Andromeda 2.2 [Link do pobrania](https://drive.google.com/file/d/1E717NYJOGmgu6nw_D81tA5IgOX0MOmm9/view), za wyraźną zgodą obu graczy)
-- Rally [Link do pobrania](do wstawienia
+- Rally [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 
 3.8 Przebieg finału
+
 - Zwycięzca drabinki zwycięzców i zwycięzca drabinki przegranych przechodza do finału, który odbędzie się w formule bo3.
 - Transmitowanie rozgrywki jest obowiązkowe; w miarę możliwości zostanie zorganizowany komentarz.
 
 3.9 Szablony w finale:
 
-- Pierwszy mecz: Kubaryt
-- Drugi mecz: h3dm3.2
-- Trzeci mecz: 6lm10a
+- Pierwsza partia: Kubaryt
+- Druga partia: h3dm3.2
+- Trzecia partia: 6lm10a
 
 3.10 Każdy gracz ma prawo do poddania dowolnej liczby meczów w każdej fazie turnieju bez podania wyraźnej przyczyny. W wyżej wymienionym przypadku gracz przegrywa walkowerem.
+
+3.11 Osobami rozstawionymi w turnieju będzie 4 najlepszych graczy Kubaryt Cup II, zaczną oni grę od górnej drabinki fazy pucharowej.
 
 ## 4. Rozgrywka
 
