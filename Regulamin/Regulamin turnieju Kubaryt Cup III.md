@@ -253,7 +253,7 @@
 > 
 > Restarty : 2x 111 / 1x 112
 > 
-> Dodatkowe zasady:  Pierwsze 3 komputery należą do gracza czerwonego, pozostałe 3 do gracza niebieskiego. Jako pierwszy zamek dla jednego ze swoich komputerów wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz.
+> Dodatkowe zasady:  Pierwsi 3 gracze komputerowi należą do gracza czerwonego, pozostałe 3 do gracza niebieskiego. Jako pierwszy zamek dla jednego ze swoich graczy komputerowych wybiera gracz niebieski, gracze wybierają zamki na przemian. Każdy zamek można wystąpić tylko raz.
 
 ### 5.4
 
@@ -415,7 +415,7 @@
 - Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska.
 - Na drodze znajduje się strażnik, którego pokonanie będzie skutkowało utratą co najmniej 70% wojska, nie blokuje on całego przejścia, ale obejście go kosztuje co najmniej 1500 punktów ruchu.
 
-*Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
+**Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
 
 6.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z sędzią.
 
@@ -424,9 +424,9 @@ Interakcja między graczami jest zdefiniowana jako jakakolwiek walka między gra
 Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
 Zasada nie dotyczy mirrorów (szablonów lustrzanych).
 
-7. Zasady fair play
+## 7. Zasady fair play
 
-7.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużona przewagę.
+7.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści organizator może przyznać walkower jego przeciwnikowi. Jeśli gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
 
 7.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
 
@@ -443,15 +443,15 @@ Zasada nie dotyczy mirrorów (szablonów lustrzanych).
 - Poradniki wideo: Dozwolone
 - Własne notatki o grze: Dozwolone
 
-*Nie wszystkie typy porad są dozwolone. Jeżeli podpowiedź posiada znaczący wpływ na rozgrywkę, np. lista kroków lub wskazanie nie zauważonego wcześniej przez gracza obiektu, streamerzy korzystający z tego typu porad zostaną ukarani walkowerem lub dyskwalifikacją, każdy tego typu przypadek należy zgłosić do jednego z sędziów; streamerzy powinni usuwać takie podpowiedzi, najlepiej za pośrednictwem moderacji.*
+**Nie wszystkie typy porad są dozwolone. Jeżeli podpowiedź posiada znaczący wpływ na rozgrywkę, np. lista kroków lub wskazanie nie zauważonego wcześniej przez gracza obiektu, streamerzy korzystający z tego typu porad zostaną ukarani walkowerem lub dyskwalifikacją, każdy tego typu przypadek należy zgłosić do jednego z sędziów; streamerzy powinni usuwać takie podpowiedzi, najlepiej za pośrednictwem moderacji.*
 
-7.3 W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć tutaj. Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
+7.3 W turnieju obowiązują standardowe reguły gier Hota lobby online. Link do nich można znaleźć tutaj(https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą tego regulaminu, regulamin turniejowy ma pierwszeństwo.
 
 ## 8. Kary
 
 8.1 **Organizator** i sędzia mają do dyspozycji kilka możliwości w jakie mogą karać graczy za nietrzymanie się zasad, oraz w wyjątkowych sytuacjach. Poziomy kar są zdefiniowane w następujący sposób:
 
-- Ostrzeżenie - otrzymywane za drobne ostrzeżenia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
+- Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
   * Drugie ostrzeżenie - walkower na partię
   * Trzecie ostrzeżenie - dyskwalifikacja
 - Walkower na partię - Otrzymywany za małe przewinienia, w tym nietrzymanie się terminów.
