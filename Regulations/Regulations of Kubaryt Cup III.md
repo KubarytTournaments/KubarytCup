@@ -133,15 +133,15 @@
 
 ### 5.1
 
-> Template: mt_Firewalk 1.6c (2p; XL+U)
+> Template: mt_Firewalk 1.6e
 > 
 > Map size: XL+U
 > 
 > Underground: Yes
 > 
-> Human or computer players: 4
+> Human or computer players: 2
 > 
-> Computer players:  2
+> Computer players:  0
 > 
 > Teams: None
 > 
