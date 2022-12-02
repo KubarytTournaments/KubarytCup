@@ -134,157 +134,285 @@
 ### 5.1
 
 > Template: mt_Firewalk 1.6c (2p; XL+U)
+> 
 > Map size: XL+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 4
+> 
 > Computer players:  2
+> 
 > Teams: None
+> 
 > Road types: Fastest only (rightmost option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 130%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 19:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 117 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Restarts: 1x111
+> 
 > Additional rules:
+> 
 > Galthran is banned
+> 
 > Orb of Inhibition and Recanters cloak are enabled
+> 
 > This version of the map doesn’t have a cartographer.
+> 
 > If a strong guard (cannot be defeated without losing 50+% of 111 army) is blocking the road to one of the starting towns, a technical restart can be called.
+> 
 > If the map does not have any dragon utopias, it is a tech restart.
+> 
 > Improved generation of MT firewalk (1.6C) should be downloaded from here.
+> 
 > Skip zone guards: Not allowed
 
 ### 5.2
 
 > Template: 6lm10a
+> 
 > Map size: XL+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players:  6
+> 
 > Teams: None
+> 
 > Road types: Average only(middle option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 160%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 19:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 121 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Skip zone guards: Not allowed
+> 
 > Restarts: 2x111 or 1x112
 
 ### 5.3
 
 > Template: Nostalgia
+> 
 > Map size: XL+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players:  6
+> 
 > Teams: None
+> 
 > Road types: Fastest only (rightmost option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 160%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 19:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 117 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Skip zone guards: Not allowed
+> 
 > Restarts: 2x111 or 1x112
+> 
 > Additional rules:
+> 
 > First 3 AI players(brown, green, orange) belong to Red, the other 3 to Blue. Blue picks a faction for first of his AIs, then they alternate(Blue, Red, Blue, …). All factions(player and AI) must be different from each other.
 
 ### 5.4
 
 > Template: h3dm3.2
+> 
 > Map size: L+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players:  0
+> 
 > Teams: None
+> 
 > Road types: Average only(middle option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 160%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 19:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 115 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Skip zone guards: Not allowed
+> 
 > Restarts: 2x111 or 1x112
 
 ### 5.5
 
 > Template: Kubaryt
+> 
 > Map size: XL
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players: 6
+> 
 > Teams: None
+> 
 > Road type: Only medium (middle option)
+> 
 > Water content: None
+> 
 > Monster strength: Strong
+> 
 > Difficulty: 160%
+> 
 > Tournament rules: Yes
+> 
 > Protect saves: Yes
+> 
 > Timer: Chess, 21:00+8:00+1:30
+> 
 > Simultaneous turns: Yes, to 121 (Can be changed if both players agree explicitly).
+> 
 > Neutral PvP combat: No
+> 
 > Restarts: 2x111 1x112
+> 
 > Additional rules:
+> 
 > Choosing a town for computer players: the red player chooses the town for the brown and pink players, and the blue player for the green and teal players, one town cannot be selected twice. The blue player chooses the first town for green, then the players alternately choose the towns. The rest of the computer players have random towns.
 
 ### 5.6
 
 > Template: Rally
+> 
 > Map size: XL+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players:  6
+> 
 > Teams: None
+> 
 > Road types: Fastest only (rightmost option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 130%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 21:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 121 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Skip zone guards: Not allowed
+> 
 > Restarts: 2x111 or 1x112
 
 ### 5.7
 
 > Template: mt_andromeda 2.1
-> Map size: L+U
+> 
+> Map size: XL+U
+> 
 > Underground: Yes
+> 
 > Human or computer players: 2
+> 
 > Computer players:  6*
+> 
 > Teams: None
+> 
 > Road types: Average only(middle option)
+> 
 > Water: None
+> 
 > Monsters strength: Strong
+> 
 > Difficulty: 160%
+> 
 > Tournaments rules: Yes
+> 
 > Password protected saves: Yes
+> 
 > Start timer after pressing OK: Yes
+> 
 > Timer: Chess, 20:00+08:00+01:30 (Can be changed if both players agree explicitly).
+> 
 > Simultaneous turns: Yes, till 121 (Can be changed if both players agree explicitly).
+> 
 > PvP neutral combats: No
+> 
 > Skip zone guards: Not allowed
+> 
 > Restarts: 2x111 or 1x112
 >
 > **If players play version 2.2, number of computer player should be set on 0*
