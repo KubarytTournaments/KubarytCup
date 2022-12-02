@@ -43,8 +43,7 @@
     * Flisiu - 1 mecz
     * Kubaryt - 1 mecz
     * ThaKing - 1 mecz
-    * Flisiu - 1 mecz
-
+    * 
 ## Zwycięzcy
 
 - Podium turnieju:
