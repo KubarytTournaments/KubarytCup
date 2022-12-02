@@ -348,5 +348,5 @@ After the game the players are obligated to exchange save passwords.
 
 - Tournament organizer is Kubaryt:
   - Twitch: Kubaryt08
-  - Discord: Kubaryt#3655
+  - Discord: Kubaryt#0707
   - www.h3.gg: Kubaryt
