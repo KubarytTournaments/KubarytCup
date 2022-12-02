@@ -516,5 +516,5 @@
 
 - Organizatorem turnieju jest Kubaryt:
   * Twitch: Kubaryt08
-  * Discord: Kubaryt#3655
+  * Discord: Kubaryt#0707
   * www.h3.gg: Kubaryt
