@@ -17,7 +17,7 @@
 
 1.5 Tournament is designed for all people, regardless of nationality. Without entry fee!
 
-1.6 Main communication channel is **Discord**. Invitation for it you can find in this [link](https://discord.gg/7GTrJwkNDN).
+1.6 Main communication channel is **Discord**. Invitation for it you can find in this [link](https://discord.gg/nm9bXJMc5c).
 
 1.7 Prizes in the tournament:
 
@@ -470,7 +470,7 @@ Report after the finished game should be written on www.h3.gg. You can find an o
 After the game the players are obligated to exchange save passwords.
 
 - Useful links:
-  - [Discord Kubaryt Tournaments](https://discord.gg/7GTrJwkNDN)
+  - [Discord Kubaryt Tournaments](https://discord.gg/nm9bXJMc5c)
   - [Tournament Github](https://github.com/KubarytTournaments/KubarytCup/tree/English)
   - [Tournament Twitch](https://www.twitch.tv/kubaryt_tournaments)
 
