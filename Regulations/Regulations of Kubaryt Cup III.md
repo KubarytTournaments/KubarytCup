@@ -65,7 +65,7 @@
 
 - 6lm10a
 - Kubaryt [Link to download](https://github.com/Kubaryt/Kubaryt/blob/HotA-templates/Kubaryt.zip)
-- h3dm3.2 [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
+- h3dm3 [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 - mt_Firewalk 1.6e [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 - Nostalgia
 
@@ -85,7 +85,7 @@
 
 - 6lm10a
 - Kubaryt
-- h3dm3.2
+- h3dm3
 - Nostalgia
 - mt_Firewalk 1.6e
 - mt_Andromeda 2.1 [Link to download](https://drive.google.com/file/d/1__G_yHpYboAJvViRsdlREEuK7gLudGFk/view) (or mt_Andromeda 2.2 [Link to download](https://drive.google.com/file/d/1E717NYJOGmgu6nw_D81tA5IgOX0MOmm9/view) after clear deception of both players)
