@@ -15,7 +15,7 @@
 
 1.4 Turniej jest przeznaczony dla wszystkich, bez względu na narodowość. Bez wpisowego!
 
-1.5 Głównym kanałem komunikacyjnym jest **Discord**. Zaproszenie do niego znajdziecie w [linku](https://discord.gg/7GTrJwkNDN).
+1.5 Głównym kanałem komunikacyjnym jest **Discord**. Zaproszenie do niego znajdziecie w [linku](https://discord.gg/nm9bXJMc5c).
 
 1.6 Pula nagród turnieju:
 
@@ -472,11 +472,11 @@ Zasada nie dotyczy mirrorów (szablonów lustrzanych).
 
 
 - Przydatne linki:
-  * Discord turnieju(https://drive.google.com/file/d/1_vqCxGMU0mKbl24YlRrZy70AMnU9upoF/view)
+  * Discord turnieju(https://drive.google.com/file/d/1_vqCxGMU0mKbl24YlRrZy70AMnU9upoF/view)](https://discord.gg/nm9bXJMc5c)
   * Github turnieju(https://github.com/KubarytTournaments)
   * Twitch turnieju(https://www.twitch.tv/kubaryt_tournaments)
 
-- Organizatorem turnieju jest Kubaryt:
+- Głównym Organizatorem turnieju jest Kubaryt:
   * Twitch: Kubaryt08
   * Discord: Kubaryt#3655
   * www.h3.gg: Kubaryt
