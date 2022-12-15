@@ -64,7 +64,7 @@
 
 - 6lm10a
 - Kubaryt [Link do pobrania](https://github.com/Kubaryt/Kubaryt/tree/HotA-templates/templates/Kubaryt)
-- h3dm3.2 [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
+- h3dm3 [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 - mt_Firewalk 1.6e [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 - Nostalgia
 
@@ -84,7 +84,7 @@
 
 - 6lm10a
 - Kubaryt
-- h3dm3.2
+- h3dm3
 - Nostalgia
 - mt_Firewalk 1.6e
 - mt_Andromeda 2.1  [Link do pobrania](https://drive.google.com/file/d/1__G_yHpYboAJvViRsdlREEuK7gLudGFk/view) (lub mt_Andromeda 2.2 [Link do pobrania](https://drive.google.com/file/d/1E717NYJOGmgu6nw_D81tA5IgOX0MOmm9/view), za wyraźną zgodą obu graczy)
