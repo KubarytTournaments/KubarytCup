@@ -261,7 +261,7 @@
 
 ### 5.4
 
-> Szablon: h3dm3.2
+> Szablon: h3dm3
 > 
 > Rozmiar mapy: L+U
 > 
