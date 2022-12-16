@@ -265,7 +265,7 @@
 
 ### 5.4
 
-> Template: h3dm3.2
+> Template: h3dm3
 > 
 > Map size: L+U
 > 
@@ -299,7 +299,7 @@
 > 
 > Skip zone guards: Not allowed
 > 
-> Restarts: 2x111 or 1x112
+> Restarts: 1x111
 
 ### 5.5
 
@@ -391,7 +391,7 @@
 > 
 > Teams: None
 > 
-> Road types: Average only(middle option)
+> Road types: Fastest only (rightmost option)
 > 
 > Water: None
 > 
