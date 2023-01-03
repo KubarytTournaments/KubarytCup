@@ -11,7 +11,7 @@
 - Czarny Kryształ#9389 - Sędzia
 - Proroc3Y|Official#6469 - Moderator
 
-1.3 Warunkiem uczestnictwa w turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 15.01 2023 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup 3”) przeczytanie oraz zaakceptowanie regulaminu turnieju.
+1.3 Warunkiem uczestnictwa w turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 20.01 2023 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup 3”) przeczytanie oraz zaakceptowanie regulaminu turnieju.
 
 1.4 Turniej jest przeznaczony dla wszystkich, bez względu na narodowość. Bez wpisowego!
 
@@ -48,7 +48,7 @@
 
 3.1 Turniej ma trzy fazy: fazę grupową, drabinkę zwycięzców i przegranych.
 
-3.2 Losowanie grup odbędzie się 16.01 2023 Odbędzie się za pośrednictwem strony www.h3.gg. Po wylosowaniu grup, można rozpocząć rozgrywanie spotkań, dokładne terminy będą się pojawiać na **Discordzie**.
+3.2 Losowanie grup odbędzie się 21.01 2023 Odbędzie się za pośrednictwem strony www.h3.gg. Po wylosowaniu grup, można rozpocząć rozgrywanie spotkań, dokładne terminy będą się pojawiać na **Discordzie**.
 
 3.3 Przebieg fazy grupowej:
 
