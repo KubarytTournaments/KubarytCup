@@ -11,7 +11,7 @@
 - Czarny Kryształ#9389 - Judge
 - Proroc3Y|Official#6469 - Discord moderator
 
-1.3 Condition of participating in the tournament is registration on www.h3.gg website (registration until 15 January 2023. After registration join the "Kubaryt Cup III" tournament), reading and accepting the tournament rules.
+1.3 Condition of participating in the tournament is registration on www.h3.gg website (registration until 20 January 2023. After registration join the "Kubaryt Cup III" tournament), reading and accepting the tournament rules.
 
 1.4 The main version of the rules is Polish version, in the case of contradictions beetwen these versions Polish version takes precedence.
 
@@ -50,7 +50,7 @@
 
 3.1 Tournament has three phases: group eliminations, winners and losers bracket.
 
-3.2 Groups draw will be held 16th of July. Will take place via www.h3.gg website. After group draw, you can start playing encounters, exact deadlines will appear on the **Discord**.
+3.2 Groups draw will be held 20th of July. Will take place via www.h3.gg website. After group draw, you can start playing encounters, exact deadlines will appear on the **Discord**.
 
 3.3 Course of the group phase:
 
