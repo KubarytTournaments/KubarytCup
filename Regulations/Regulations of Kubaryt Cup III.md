@@ -43,7 +43,7 @@
 - Discord moderator - person chosen by **Tournament Organizer**, who is in the **Discord** staff, deals with technical matters of **Discord**.
 - Streamer - person who broadcast his game in the tournament.
 - Game - single encounter beetwen players.
-- Match - all games played by the player in the current tournament phase (doesn't apply to group phase).
+- Match - all games played beetwen two players in current phase.
 - Player - tournament parcitiptiant
 
 ## 3. Course of the tournament
@@ -461,7 +461,9 @@ The rule does not apply on mirror templates.
 - Disqualification - received for big infractions
 - Ban - received for serious infractions, works like disquailfication, but doesn't allow you to play in the tournament for a definite or indefinite period
 
-8.2 Informations about receiving a penatly with the reason of it will be published on #Ruling-orzeczenia channel on **Discord**
+8.2 Informations about receiving a penatly with the reason of it will be published on #Rulings-orzeczenia channel on **Discord**
+
+8.3 Player can appeal the decision until the end of the current phase. 
 
 ## 9. Game conclusion
 
