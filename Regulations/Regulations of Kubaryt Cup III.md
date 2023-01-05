@@ -463,7 +463,7 @@ The rule does not apply on mirror templates.
 
 8.2 Informations about receiving a penatly with the reason of it will be published on #Rulings-orzeczenia channel on **Discord**
 
-8.3 Player can appeal the decision until the end of the current phase. 
+8.3 Player can appeal the Judges' decision until the end of the current phase. 
 
 ## 9. Game conclusion
 
