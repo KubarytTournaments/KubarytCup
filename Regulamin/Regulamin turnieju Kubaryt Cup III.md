@@ -41,7 +41,7 @@
 - Moderator - osoba wybrana przez **Organizatora**, znajdująca się we sztabie **Discorda**, zajmuje się sprawami technicznymi związanymi z **Discordem**.
 - Streamer - osoba transmitująca swoją partię w turnieju
 - Partia - pojedyncze spotkanie pomiędzy graczami
-- Mecz - wszystkie partie rozgrywane przez danego gracza w ramach aktualnej fazy turnieju (nie dotyczy fazy grupowej)
+- Mecz - wszystkie partie rozgrywane między dwoma graczami w danej fazie
 - Gracz - osoba biorąca udział w turnieju. Inaczej uczestnik turnieju
 
 ## 3. Przebieg Turnieju
@@ -463,6 +463,8 @@ Zasada nie dotyczy mirrorów (szablonów lustrzanych).
 - Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w turnieju na czas określony, lub nieokreślony.
 
 8.2 Informacje o otrzymaniu kary wraz z powodem otrzymania tychże będą publikowane na kanale #Rulings-orzeczenia na **Discordzie**
+
+8.3 Gracze mogą odwłołać się od decyzji sedziów do końca aktualnej fazy.
 
 ## 9. Zakończenie gry
 
