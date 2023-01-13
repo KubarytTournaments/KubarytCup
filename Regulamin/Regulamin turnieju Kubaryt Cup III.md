@@ -6,9 +6,9 @@
 
 1.2 Członkowie kadry oraz kontakt do nich na discordzie: 
 
-- Kubaryt#0707 - Organizator, sędzia
+- Kubaryt#6115 - Organizator, sędzia
 - Malkiz#5589 - Organizator, sędzia
-- Czarny Kryształ#9389 - Sędzia
+- Kryształ#9389 - Sędzia
 - Proroc3Y|Official#6469 - Moderator
 
 1.3 Warunkiem uczestnictwa w turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 20.01 2023 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup 3”) przeczytanie oraz zaakceptowanie regulaminu turnieju.
