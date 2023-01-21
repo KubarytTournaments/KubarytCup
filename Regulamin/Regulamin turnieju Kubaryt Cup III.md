@@ -55,7 +55,7 @@
 - Wielkość grup zostanie dostosowana po zakończeniu zapisów, docelowo jest to 4.
 - W grupach gracze grają w systemie każdy z każdym.
 - Za wygranie meczu gracz otrzymuje 1 punkt, za porażkę 0 punktów. Jeśli gra zakończy się remisem, mecz należy rozegrać ponownie.
-- Do fazy eliminacji awansuje 2 graczy z grupy z największą liczbą punktów.
+- Do fazy eliminacji awansuje 3 graczy z grupy z największą liczbą punktów.
 - W przypadku uzyskania przez graczy tej samej liczby punktów w grupie, o pozycji decyduje wynik meczu bezpośredniego.
 - W przypadku trzech lub więcej graczy z taką samą liczbą punktów i bez jednoznacznego wygranego w meczach bezpośrednich (na przykład A > B, B > C, C > A) decyduje dogrywka na szablonie h3dm3.2 (W systemie bo1).
 - Obowiązuje system rozgrywek BO1 (Best Of 1)
