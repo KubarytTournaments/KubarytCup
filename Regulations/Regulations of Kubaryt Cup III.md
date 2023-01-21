@@ -57,7 +57,7 @@
 - Size of groupes will be customized after registration end. Ultimately it is 4 players per group.
 - In the groups players play in the everyone with everyone system. For the victory you get one point, for the defeat zero points.
 - If game ends with draw, you have to play it again.
-- To the knockout plase will be promoted two players per group (with the largest amount of points).
+- To the knockout plase will be promoted three players per group (with the largest amount of points).
 - In the case of the players getting same amount of points in group, about the position decide score of the direct match. In the case of three or more players getting the same number of points and without unequivocal winner in the direct matches (for example A > B, B > C, C > A) decide play-off on h3dm3.2 template (in bo1 system)).
 - Applies the Best Of 1 games system.
 
@@ -217,8 +217,6 @@
 > 
 > PvP neutral combats: No
 > 
-> Skip zone guards: Not allowed
-> 
 > Restarts: 2x111 or 1x112
 
 ### 5.3
@@ -254,8 +252,6 @@
 > Simultaneous turns: Yes, till 117 (Can be changed if both players agree explicitly).
 > 
 > PvP neutral combats: No
-> 
-> Skip zone guards: Not allowed
 > 
 > Restarts: 2x111 or 1x112
 > 
@@ -296,8 +292,6 @@
 > Simultaneous turns: Yes, till 115 (Can be changed if both players agree explicitly).
 > 
 > PvP neutral combats: No
-> 
-> Skip zone guards: Not allowed
 > 
 > Restarts: 1x111
 
@@ -373,8 +367,6 @@
 > 
 > PvP neutral combats: No
 > 
-> Skip zone guards: Not allowed
-> 
 > Restarts: 2x111 or 1x112
 
 ### 5.7
@@ -410,8 +402,6 @@
 > Simultaneous turns: Yes, till 121 (Can be changed if both players agree explicitly).
 > 
 > PvP neutral combats: No
-> 
-> Skip zone guards: Not allowed
 > 
 > Restarts: 2x111 or 1x112
 >
