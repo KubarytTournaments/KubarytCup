@@ -58,7 +58,7 @@
 - In the groups players play in the everyone with everyone system. For the victory you get one point, for the defeat zero points.
 - If game ends with draw, you have to play it again.
 - To the knockout plase will be promoted three players per group (with the largest amount of points).
-- In the case of the players getting same amount of points in group, about the position decide score of the direct match. In the case of three or more players getting the same number of points and without unequivocal winner in the direct matches (for example A > B, B > C, C > A) decide play-off on h3dm3.2 template (in bo1 system)).
+- In the case of the players getting same amount of points in group, about the position decide score of the direct match. In the case of three or more players getting the same number of points and without unequivocal winner in the direct matches (for example A > B, B > C, C > A) decide play-off on h3dm3 template (in bo1 system)).
 - Applies the Best Of 1 games system.
 
 3.4 Templates in the group phase:
@@ -99,7 +99,7 @@
 3.9 Templates in final:
 
 - First game: Kubaryt
-- Second game: h3dm3.2
+- Second game: h3dm3
 - Third game: 6lm10a
 
 3.10 Each of the players has right to give up the macz in each phase of tournament without giving an explain. In the mentioned above case player gets the walkover.
