@@ -57,7 +57,7 @@
 - Za wygranie meczu gracz otrzymuje 1 punkt, za porażkę 0 punktów. Jeśli gra zakończy się remisem, mecz należy rozegrać ponownie.
 - Do fazy eliminacji awansuje 3 graczy z grupy z największą liczbą punktów.
 - W przypadku uzyskania przez graczy tej samej liczby punktów w grupie, o pozycji decyduje wynik meczu bezpośredniego.
-- W przypadku trzech lub więcej graczy z taką samą liczbą punktów i bez jednoznacznego wygranego w meczach bezpośrednich (na przykład A > B, B > C, C > A) decyduje dogrywka na szablonie h3dm3.2 (W systemie bo1).
+- W przypadku trzech lub więcej graczy z taką samą liczbą punktów i bez jednoznacznego wygranego w meczach bezpośrednich (na przykład A > B, B > C, C > A) decyduje dogrywka na szablonie h3dm3 (W systemie bo1).
 - Obowiązuje system rozgrywek BO1 (Best Of 1)
 
 3.4 Szablony w fazie grupowej:
@@ -98,7 +98,7 @@
 3.9 Szablony w finale:
 
 - Pierwsza partia: Kubaryt
-- Druga partia: h3dm3.2
+- Druga partia: h3dm3
 - Trzecia partia: 6lm10a
 
 3.10 Każdy gracz ma prawo do poddania dowolnej liczby meczów w każdej fazie turnieju bez podania wyraźnej przyczyny. W wyżej wymienionym przypadku gracz przegrywa walkowerem.
