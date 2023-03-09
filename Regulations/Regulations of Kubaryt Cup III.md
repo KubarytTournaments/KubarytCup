@@ -87,8 +87,8 @@
 - Kubaryt
 - h3dm3
 - Nostalgia
-- mt_Firewalk 1.6e
-- mt_Andromeda 2.1 [Link to download](https://drive.google.com/file/d/1__G_yHpYboAJvViRsdlREEuK7gLudGFk/view) (or mt_Andromeda 2.2 [Link to download](https://drive.google.com/file/d/1E717NYJOGmgu6nw_D81tA5IgOX0MOmm9/view) after clear deception of both players)
+- mt_Firewalk 2.0 [Link to download](https://mkalinowski2.github.io/ignus-h3-templates/templates/mt_Firewalk_2.0/)
+- mt_Andromeda 2.1 [Link to download](https://drive.google.com/file/d/1JZ3pz1fJQXxeuuwAuTxon6hpaZSfYnnG/view?usp=share_link)
 - Rally [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 
 3.8 Course of the final:
@@ -133,7 +133,7 @@
 
 ### 5.1
 
-> Template: mt_Firewalk 1.6e
+> Template: mt_Firewalk 2.0
 > 
 > Map size: XL+U
 > 
@@ -178,8 +178,6 @@
 > If a strong guard (cannot be defeated without losing 50+% of 111 army) is blocking the road to one of the starting towns, a technical restart can be called.
 > 
 > If the map does not have any dragon utopias, it is a tech restart.
-> 
-> Improved generation of MT firewalk (1.6C) should be downloaded from here.
 > 
 > Skip zone guards: Not allowed
 
@@ -371,7 +369,7 @@
 
 ### 5.7
 
-> Template: mt_andromeda 2.1
+> Template: mt_Nebula
 > 
 > Map size: XL+U
 > 
@@ -379,7 +377,7 @@
 > 
 > Human or computer players: 2
 > 
-> Computer players:  6*
+> Computer players:  0*
 > 
 > Teams: None
 > 
@@ -405,7 +403,7 @@
 > 
 > Restarts: 2x111 or 1x112
 >
-> **If players play version 2.2, number of computer player should be set on 0*
+> **If both players agree then number of computer players can be 4
 
 ## 6. Restarts
 
