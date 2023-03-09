@@ -86,8 +86,8 @@
 - Kubaryt
 - h3dm3
 - Nostalgia
-- mt_Firewalk 1.6e
-- mt_Andromeda 2.1  [Link do pobrania](https://drive.google.com/file/d/1__G_yHpYboAJvViRsdlREEuK7gLudGFk/view) (lub mt_Andromeda 2.2 [Link do pobrania](https://drive.google.com/file/d/1E717NYJOGmgu6nw_D81tA5IgOX0MOmm9/view), za wyraźną zgodą obu graczy)
+- mt_Firewalk 2.0 [Link do pobrania](https://mkalinowski2.github.io/ignus-h3-templates/templates/mt_Firewalk_2.0/)
+- mt_Nebula  [Link do pobrania](https://drive.google.com/file/d/1JZ3pz1fJQXxeuuwAuTxon6hpaZSfYnnG/view?usp=share_link)
 - Rally [Link do pobrania](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 
 3.8 Przebieg finału
@@ -133,7 +133,7 @@
 
 ### 5.1
 
-> Szablon: mt_Firewalk 1.6e (2p; XL+U)
+> Szablon: mt_Firewalk 2.0 (2p; XL+U)
 > 
 > Rozmiar mapy: XL
 > 
@@ -373,7 +373,7 @@
 
 ### 5.7
 
-> Szablon: mt_Andromeda 2.1
+> Szablon: mt_Nebula
 > 
 > Rozmiar mapy: XL+U
 > 
@@ -381,7 +381,7 @@
 > 
 > Gracze ludzcy lub komputerowi: 2
 > 
-> Gracze komputerowi: 6*
+> Gracze komputerowi: 0*
 > 
 > Drużyny: Brak drużyn
 > 
@@ -407,7 +407,7 @@
 > 
 > Neutralna walka PvP: Nie
 >
-> *Jeżeli gracze grają wersję 2.2, ilość graczy komputerowych powinna być ustawiona na 0*
+> *Za zgodą obu graczy liczba graczy komputerowych może wynosić 4
 
 ## 6. Restarty
 
