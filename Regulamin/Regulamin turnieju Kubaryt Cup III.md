@@ -407,7 +407,7 @@
 > 
 > Neutralna walka PvP: Nie
 >
-> *Za zgodą obu graczy liczba graczy komputerowych może wynosić 4
+> *Za zgodą obu graczy liczba graczy komputerowych może wynosić 6
 
 ## 6. Restarty
 
