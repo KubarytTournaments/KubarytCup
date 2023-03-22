@@ -403,7 +403,7 @@
 > 
 > Restarts: 2x111 or 1x112
 >
-> **If both players agree then number of computer players can be 4
+> **If both players agree then number of computer players can be 6
 
 ## 6. Restarts
 
