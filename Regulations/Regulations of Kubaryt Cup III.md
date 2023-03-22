@@ -88,7 +88,7 @@
 - h3dm3
 - Nostalgia
 - mt_Firewalk 2.0 [Link to download](https://mkalinowski2.github.io/ignus-h3-templates/templates/mt_Firewalk_2.0/)
-- mt_Andromeda 2.1 [Link to download](https://drive.google.com/file/d/1JZ3pz1fJQXxeuuwAuTxon6hpaZSfYnnG/view?usp=share_link)
+- mt_Nebula [Link to download](https://drive.google.com/file/d/1JZ3pz1fJQXxeuuwAuTxon6hpaZSfYnnG/view?usp=share_link)
 - Rally [Link to download](https://drive.google.com/file/d/1x9u7J6EwOpGQsHltLM8I0_XHpDTHaRUR/view)
 
 3.8 Course of the final:
