@@ -8,7 +8,8 @@
 
 - Kubaryt#6115 - Organizator, sędzia
 - Malkiz#5589 - Organizator, sędzia
-- Kryształ#9389 - Sędzia
+- Kryształ#9389 - Sędzia (do 21 III 2023)
+- AksOlek#1969 - Sędzia (od 1 IV 2023)
 - Proroc3Y|Official#6469 - Moderator
 
 1.3 Warunkiem uczestnictwa w turnieju jest rejestracja na stronie www.h3.gg (rejestracja do 20.01 2023 Po zarejestrowaniu się na stronie, należy dołączyć do istniejącego turnieju “Kubaryt Cup 3”) przeczytanie oraz zaakceptowanie regulaminu turnieju.
