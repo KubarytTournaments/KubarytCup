@@ -6,9 +6,10 @@
 
 1.2 Staff member and communication with them on Discord:
 
-- Kubaryt#6115 - Tournament organizer, judge
+- Kubaryt#6115 - Main tournament organizer, judge
 - Malkiz#5589 - Tournament organizer, judge
-- Kryształ#9389 - Judge
+- Kryształ#9389 - Judge (to 21 March 2023)
+- AksOlek#1969 - Judge (to 1 April 2023)
 - Proroc3Y|Official#6469 - Discord moderator
 
 1.3 Condition of participating in the tournament is registration on www.h3.gg website (registration until 20 January 2023. After registration join the "Kubaryt Cup III" tournament), reading and accepting the tournament rules.
