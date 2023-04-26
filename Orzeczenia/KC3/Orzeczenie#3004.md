@@ -29,5 +29,7 @@ T3mz vs Goldencrow - mecz oddany przez T3mza walkowerem
 - Zwalniam Kryształa z funkcji sędziego grupowego grup: 15, 16, 17, 18, 19 i 20
 ## 5. Postanowienia
 5.1 Ustalam dzień rozpoczęcia fazy górnej drabinki na 9 Marca 2023
+
 5.2 Szablon `mt_Nebula` zastąpi szablon `mt_Andromeda 2.1` i `2.2` w fazie pucharowej
+
 5.3 Kwestia aktualizacji szablonu `mt_Firewalk 1.6e` na `mt_Firewalk 2.0` zostanie roztrzygnięta przez głosowanie, w którym głosować będzie mógł uczestnik Górnej Drabinki, głosowanie odbędzie się 8 Marca 2023 o godzinie 0:00 i potrwa 24 godziny
