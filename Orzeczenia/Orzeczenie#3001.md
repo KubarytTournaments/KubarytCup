@@ -1,7 +1,7 @@
 # Orzeczenie #3001
 
 ## Sędziowie zostają przypisani do konkretnych grup. Lista grup wraz z przypisanymi do nich sędziami 
-- @Grupa 1 | Group 1 - @Kubaryt#6115 
+- @Grupa 1 | Group 1 - @Kubaryt#6115
 - @Grupa 2 | Group 2 - @Kubaryt#6115 
 - @Grupa 3 | Group 3 - @Kubaryt#6115 
 - @Grupa 4 | Group 4 - @Kubaryt#6115 
