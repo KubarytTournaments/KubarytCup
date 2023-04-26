@@ -24,9 +24,9 @@ T3mz vs Goldencrow - mecz oddany przez T3mza walkowerem
 ## 3. Mecze zakończone rzutem monetom:
 - sydkanecat vs SudokuWB - zwycięstwo SudokuWB przez rzut monetom
 ## 4. Zwolnienia
-- Zwalniam @Kubaryt#6115 z funkcji sędziego grupowego grup: 1, 2, 3, 4, 5, 6 i 7
-- Zwalniam @Malkiz#5589 z funkcji sędziego grupowego grup: 8, 9, 10, 11, 12, 13 i 14 
-- Zwalniam @KubaTheGreat#2746 z funkcji sędziego grupowego grup: 15, 16, 17, 18, 19 i 20
+- Zwalniam Kubaryta z funkcji sędziego grupowego grup: 1, 2, 3, 4, 5, 6 i 7
+- Zwalniam Malkiza z funkcji sędziego grupowego grup: 8, 9, 10, 11, 12, 13 i 14 
+- Zwalniam Kryształa z funkcji sędziego grupowego grup: 15, 16, 17, 18, 19 i 20
 ## 5. Postanowienia
 5.1 Ustalam dzień rozpoczęcia fazy górnej drabinki na 9 Marca 2023
 5.2 Szablon `mt_Nebula` zastąpi szablon `mt_Andromeda 2.1` i `2.2` w fazie pucharowej
