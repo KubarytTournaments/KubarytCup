@@ -11,4 +11,5 @@
 ## 2. Postanowienia
 
 2.1 Ustalam czas na rozegranie fazy 1/16 kroku 1 Dolnej Drabinki na 28 kwietnia 2023
+
 2.2 Ustalam czas na rozegranie fazy 1/16 kroku 2 Dolnej Drabinki na 5 maja 2023
