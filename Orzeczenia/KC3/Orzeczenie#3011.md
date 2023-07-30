@@ -18,8 +18,11 @@
  - roxeno vs Xarizu
 ## 5. Postanowienia
 5.1 Ustalam dzień zakończenia fazy 1/8 górnej drabinki na 31 maja 2023
+
 5.2 Ustalam dzień zakończenia pierwszego etapu fazy 1/16 dolnej drabinki na 24 kwietnia 2023 i drugiego etapu fazy 1/16 dolnej drabinki na 1 maja 2023
 ## 6. Sekcje
 6.1 Sekcja pierwsza obejmuje całą Górnej Drabinki 
+
 6.2 Sekcja druga obejmuje drugi etap fazy 1/16 Dolnej Drabinki  
+
 6.3 Sekcja trzecia obejmuje pierwszy etap fazy 1/16 Dolnej Drabinki 
