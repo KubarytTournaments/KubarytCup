@@ -1,4 +1,4 @@
-# Statystki, zaangażowani oraz zwycięzcy Kubaryt Cup I.
+# Statystki, zaangażowani oraz zwycięzcy Kubaryt Cup II.
 
 ## Statystyki
 
