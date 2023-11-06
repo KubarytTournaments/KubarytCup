@@ -12,5 +12,5 @@
 - Grupa 17 
 - Grupa 18 
 - Grupa 19
-- 
+
 *Łączna liczba meczów bez raportu: 19*
