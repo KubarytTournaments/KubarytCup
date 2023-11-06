@@ -7,7 +7,7 @@
 - Liczba walkowerów: 84
 - Liczba osób biorących udział w predykcjach: 18
 - Liczba komentowanych meczów: 6
-- Czas trwania turnieju: 31/12/2021 - 19/10/2022 (292 dni, 262 bez zapisów)
+- Czas trwania turnieju: 15/12/2022 - 25/10/2023 (314 dni, 262 bez zapisów)
 - Liczba rozegranych gier na szablon:
   * 6lm10TP - 88
   * h3dm3 - 66
