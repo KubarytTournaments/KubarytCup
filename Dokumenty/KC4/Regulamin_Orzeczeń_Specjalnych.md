@@ -11,12 +11,20 @@
 1.2. Decyzje, które mogą zostać podjęte drogą Orzeczenia Specjalnego:
 
 a). Zatwierdzanie nowych wersji Zasad Gry,
+
 b). Zmiana utworzenie, zmiana składu i rozwiążanie Komitetu Sędziowskiego,
+
 c). Przekazanie podziękowań i gratulacji Graczom i osobom pełniącym Oficjalne Funkcje,
+
 d). Przyznanie I, II i III miejsca zgodnie z właściwym punktem Regulaminu,
+
 e). Uchylenie Orzeczenia, Orzeczenia Specjalnego lub innego Dokumentu wymienionego w właściwym punkcie Regulaminu,
+
 f). Wykładnia niejasnego punktu Zasad Gry,
-g). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu
+
+g). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu,
+
+h). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
 
 ## 2. Kształt Orzeczeń
 
@@ -27,7 +35,7 @@ g). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań o
 2.3 Treść Orzecenia Specjalnego podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu Specjalnym):
 
 - Zasady Gry - decyzje z ustępu a). i e). punktu 1.2,
-- Komitet Sędziowski - decyzje z ustępu b). i g). punktu 1.2,
+- Komitet Sędziowski - decyzje z ustępu b). i g).-h). punktu 1.2,
 - Podziękowania i gratulacje - decyzje z ustępu c). punktu 1.2
 - Zwycięzcy - decyzje z ustępu d). punktu 1.2
 - Wykładnia - decyzje z ustępu f). punktu 1.2
