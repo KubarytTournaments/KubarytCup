@@ -15,16 +15,22 @@
 1.4 Decyzje, które mogą zostać podjęte drogą Orzeczenia:
 
 a). Ukaranie Gracza zgodnie z punktem właściwym Regulaminu,
+
 b). Rozpatrzenie odwołania od kary zgodnego z punktem właściwym Regulaminu,
+
 c). Ustalenie terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
+
 d). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
+
 e). Zakończenie meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
-f). Wykładnia niejasnego fragmentu Zasad Gry,
+
+f). Wykładnia niejasnego fragmentu Zasad Gry
 g). Informacje nt. działań Graczy. Tj.:
 
   - Wycofanie z Turnieju,
   - Oddanie walkowera w Partii,
   - Oddanie walkowera w Meczu,
+    
 h). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
 
 ## 2. Kształt Orzeczeń
