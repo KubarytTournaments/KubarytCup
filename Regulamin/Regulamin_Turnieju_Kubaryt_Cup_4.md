@@ -12,10 +12,10 @@
 
 0.2b Dokumenty będące częścią Zasad Turnieju:
 
-  - [Regulamin Komitetu Sędziowskiego](Dokumenty/Regulamin_Komitetu_Sędziowskiego.md)
+  - [Regulamin Komitetu Sędziowskiego](Dokumenty/KC4/Regulamin_Komitetu_Sędziowskiego.md)
   - Definicje Pojęć Kubaryt Cup 4
-  - [Regulamin Orzeczeń](Dokumenty/Regulamin_Orzeczeń.md)
-  - [Regulamin Orzeczeń Specjalnych](Dokument/Regulamin_Orzeczeń_Specjalnych.md)
+  - [Regulamin Orzeczeń](Dokumenty/KC4/RRegulamin_Orzeczeń.md)
+  - [Regulamin Orzeczeń Specjalnych](Dokumenty/KC4/RRegulamin_Orzeczeń_Specjalnych.md)
   - Regulamin Szablonów
   - Polityka Prywatności Kubaryt Cup 4
 
