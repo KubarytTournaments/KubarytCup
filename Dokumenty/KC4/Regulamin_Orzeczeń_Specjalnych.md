@@ -35,9 +35,13 @@ h). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
 2.3 Treść Orzecenia Specjalnego podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu Specjalnym):
 
 a). Zasady Gry - decyzje z ustępu a). i e). punktu 1.2,
+
 b). Komitet Sędziowski - decyzje z ustępu b). i g).-h). punktu 1.2,
+
 c). Podziękowania i gratulacje - decyzje z ustępu c). punktu 1.2
+
 d). Zwycięzcy - decyzje z ustępu d). punktu 1.2
+
 e). Wykładnia - decyzje z ustępu f). punktu 1.2
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
