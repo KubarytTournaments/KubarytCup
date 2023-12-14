@@ -34,11 +34,11 @@ h). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
 
 2.3 Treść Orzecenia Specjalnego podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu Specjalnym):
 
-- Zasady Gry - decyzje z ustępu a). i e). punktu 1.2,
-- Komitet Sędziowski - decyzje z ustępu b). i g).-h). punktu 1.2,
-- Podziękowania i gratulacje - decyzje z ustępu c). punktu 1.2
-- Zwycięzcy - decyzje z ustępu d). punktu 1.2
-- Wykładnia - decyzje z ustępu f). punktu 1.2
+a). Zasady Gry - decyzje z ustępu a). i e). punktu 1.2,
+b). Komitet Sędziowski - decyzje z ustępu b). i g).-h). punktu 1.2,
+c). Podziękowania i gratulacje - decyzje z ustępu c). punktu 1.2
+d). Zwycięzcy - decyzje z ustępu d). punktu 1.2
+e). Wykładnia - decyzje z ustępu f). punktu 1.2
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
