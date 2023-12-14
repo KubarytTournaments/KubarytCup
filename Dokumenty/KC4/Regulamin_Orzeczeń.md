@@ -25,6 +25,7 @@ d). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
 e). Zakończenie meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
 
 f). Wykładnia niejasnego fragmentu Zasad Gry
+
 g). Informacje nt. działań Graczy. Tj.:
 
   - Wycofanie z Turnieju,
@@ -42,15 +43,24 @@ h). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właś
 2.3 W przypadku podjęciu decyzjim wymienionej w ustępach b)., d).-f). punktu 1.4, obok informacji o podjęciu danej decyzji w Orzeczeniu powinna znajdować się informacja o wnioskodawcy.
 
 2.4 Treść Orzeczenia podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu):
-- Wycofania - informuje o wycofaniach się Graczy.
-- Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
-- Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
-- Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
-- Kary i nagany - informuje o karach zastosowanych wobec Graczy.
-- Terminarz - informuje o Terminach faz.
-- Przedłużenia terminów - informuje o zmianach w Terminarzu.
-- Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). z punktu 1.4
-- Wykładnia - informuje o decyzjach z ustępu f). z punktu 1.4
+
+a). Wycofania - informuje o wycofaniach się Graczy.
+
+b). Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
+
+c).  Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
+
+d). Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
+
+e). Kary i nagany - informuje o karach zastosowanych wobec Graczy.
+
+f). Terminarz - informuje o Terminach faz.
+
+g). Przedłużenia terminów - informuje o zmianach w Terminarzu.
+
+h). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). z punktu 1.4
+
+i). Wykładnia - informuje o decyzjach z ustępu f). z punktu 1.4
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
