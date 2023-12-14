@@ -22,7 +22,7 @@ c). Ustalenie terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
 
 d). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
 
-e). Zakończenie meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
+e). Zakończenie Meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
 
 f). Wykładnia niejasnego fragmentu Zasad Gry
 
@@ -33,6 +33,8 @@ g). Informacje nt. działań Graczy. Tj.:
   - Oddanie walkowera w Meczu,
     
 h). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
+
+i). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we właściwym punkcie Regulaminu
 
 ## 2. Kształt Orzeczeń
 
@@ -58,7 +60,7 @@ f). Terminarz - informuje o Terminach faz.
 
 g). Przedłużenia terminów - informuje o zmianach w Terminarzu.
 
-h). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). z punktu 1.4
+h). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). oraz i). z punktu 1.4
 
 i). Wykładnia - informuje o decyzjach z ustępu f). z punktu 1.4
 
