@@ -10,21 +10,14 @@
 
 1.2. Decyzje, które mogą zostać podjęte drogą Orzeczenia Specjalnego:
 
-a). Zatwierdzanie nowych wersji Zasad Gry,
-
-b). Zmiana utworzenie, zmiana składu i rozwiążanie Komitetu Sędziowskiego,
-
-c). Przekazanie podziękowań i gratulacji Graczom i osobom pełniącym Oficjalne Funkcje,
-
-d). Przyznanie I, II i III miejsca zgodnie z właściwym punktem Regulaminu,
-
-e). Uchylenie Orzeczenia, Orzeczenia Specjalnego lub innego Dokumentu wymienionego w właściwym punkcie Regulaminu,
-
-f). Wykładnia niejasnego punktu Zasad Gry,
-
-g). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu,
-
-h). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
+- 1). Zatwierdzanie nowych wersji Zasad Gry,
+- 2). Zmiana utworzenie, zmiana składu i rozwiążanie Komitetu Sędziowskiego,
+- 3). Przekazanie podziękowań i gratulacji Graczom i osobom pełniącym Oficjalne Funkcje,
+- 4). Przyznanie I, II i III miejsca zgodnie z właściwym punktem Regulaminu,
+- 5). Uchylenie Orzeczenia, Orzeczenia Specjalnego lub innego Dokumentu wymienionego w właściwym punkcie Regulaminu,
+- 6). Wykładnia niejasnego punktu Zasad Gry,
+- 7). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu,
+- 8). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
 
 ## 2. Kształt Orzeczeń
 
@@ -34,15 +27,11 @@ h). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
 
 2.3 Treść Orzecenia Specjalnego podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu Specjalnym):
 
-a). Zasady Gry - decyzje z ustępu a). i e). punktu 1.2,
-
-b). Komitet Sędziowski - decyzje z ustępu b). i g).-h). punktu 1.2,
-
-c). Podziękowania i gratulacje - decyzje z ustępu c). punktu 1.2
-
-d). Zwycięzcy - decyzje z ustępu d). punktu 1.2
-
-e). Wykładnia - decyzje z ustępu f). punktu 1.2
+- 1). Zasady Gry - decyzje z ustępu 1). i 5). punktu 1.2,
+- 2). Komitet Sędziowski - decyzje z ustępu 2). i 7).-8). punktu 1.2,
+- 3). Podziękowania i gratulacje - decyzje z ustępu 3). punktu 1.2
+- 4). Zwycięzcy - decyzje z ustępu 4). punktu 1.2
+- 5). Wykładnia - decyzje z ustępu 6). punktu 1.2
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
