@@ -14,27 +14,19 @@
 
 1.4 Decyzje, które mogą zostać podjęte drogą Orzeczenia:
 
-a). Ukaranie Gracza zgodnie z punktem właściwym Regulaminu,
+- 1). Ukaranie Gracza zgodnie z punktem właściwym Regulaminu,
+- 2). Rozpatrzenie odwołania od kary zgodnego z punktem właściwym Regulaminu,
+- 3). Ustalenie terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
+- 4). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
+- 5). Zakończenie Meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
+- 6). Wykładnia niejasnego fragmentu Zasad Gry
+- 7). Informacje nt. działań Graczy. Tj.:
 
-b). Rozpatrzenie odwołania od kary zgodnego z punktem właściwym Regulaminu,
-
-c). Ustalenie terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
-
-d). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
-
-e). Zakończenie Meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
-
-f). Wykładnia niejasnego fragmentu Zasad Gry
-
-g). Informacje nt. działań Graczy. Tj.:
-
-  - Wycofanie z Turnieju,
-  - Oddanie walkowera w Partii,
-  - Oddanie walkowera w Meczu,
-    
-h). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
-
-i). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we właściwym punkcie Regulaminu
+  - a) Wycofanie z Turnieju,
+  - b) Oddanie walkowera w Partii,
+  - c) Oddanie walkowera w Meczu,
+- 8). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
+- 9). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we właściwym punkcie Regulaminu
 
 ## 2. Kształt Orzeczeń
 
@@ -46,23 +38,15 @@ i). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we wła�
 
 2.4 Treść Orzeczenia podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu):
 
-a). Wycofania - informuje o wycofaniach się Graczy.
-
-b). Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
-
-c).  Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
-
-d). Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
-
-e). Kary i nagany - informuje o karach zastosowanych wobec Graczy.
-
-f). Terminarz - informuje o Terminach faz.
-
-g). Przedłużenia terminów - informuje o zmianach w Terminarzu.
-
-h). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). oraz i). z punktu 1.4
-
-i). Wykładnia - informuje o decyzjach z ustępu f). z punktu 1.4
+- 1). Wycofania - informuje o wycofaniach się Graczy.
+- 2). Walkowery na Partię - informuje o poddanych z własnej woli przez Graczy Partiach.
+- 3).  Walkowery na Mecz - informuje o poddanych z własnej woli przez Graczy Meczach.
+- 4). Odwołania - informuje o odwołaniach Graczy od decyzji Komitetu i rozpatrzeniu ich.
+- 5). Kary i nagany - informuje o karach zastosowanych wobec Graczy.
+- 6). Terminarz - informuje o Terminach faz.
+- 7). Przedłużenia terminów - informuje o zmianach w Terminarzu.
+- 8). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu e). oraz i). z punktu 1.4
+- 9). Wykładnia - informuje o decyzjach z ustępu f). z punktu 1.4
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
