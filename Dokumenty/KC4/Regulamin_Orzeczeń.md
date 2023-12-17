@@ -27,7 +27,10 @@
   - c) Oddanie walkowera w Meczu,
 - 8). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
 - 9). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we właściwym punkcie Regulaminu,
-- 10). Pozwolenie na nieprowadzenie transmisji z Partii w fazie, w której jest to obowiązkowe.
+- 10). Pozwolenie na nieprowadzenie transmisji z Partii w fazie, w której jest to obowiązkowe,
+- 11). Udzielenie lub zabranie dostępu do Bazy Danych Turnieju.
+
+1.4a. Decyzję z ustępu 11). punktu 1.4 może podjąć tylko Szef Komitetu lub Sekretarz.
 
 ## 2. Kształt Orzeczeń
 
@@ -35,7 +38,7 @@
 
 2.2 Numer Orzeczenia składa się ze znaku $, 2 cyfr, myślnika, 2 cyfr i liter KC (np. $04-01KC). Pierwsze dwie cyfry oznaczają, w której edycji Turnieju dane Orzeczenie obowiązuje, natomiast dwie następne cyfry oznaczają liczbę porządkową Orzeczenia. Im wyższa liczba porządkowa Orzeczenia tym większą posiada moc, w związku z tym jeżeli Orzeczenie $04-01KC jest sprzeczne z Orzeczeniem $04-06KC, to Orzeczenie $04-06KC jest obowiązujące.
 
-2.3 W przypadku podjęciu decyzjim wymienionej w ustępach 2)., 4).-6)., 10). punktu 1.4, obok informacji o podjęciu danej decyzji w Orzeczeniu powinna znajdować się informacja o wnioskodawcy.
+2.3 W przypadku podjęciu decyzjim wymienionej w ustępach 2)., 4).-6)., 10).-11). punktu 1.4, obok informacji o podjęciu danej decyzji w Orzeczeniu powinna znajdować się informacja o wnioskodawcy.
 
 2.4 Treść Orzeczenia podzielona jest na punkty (nie wszystkie wymienione punkty muszą znaleźć się w każdym Orzeczeniu):
 
@@ -48,7 +51,7 @@
 - 7). Przedłużenia terminów - informuje o zmianach w Terminarzu.
 - 8). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu 5). oraz 9). z punktu 1.4
 - 9). Wykładnia - informuje o decyzjach z ustępu 6). z punktu 1.4
-- 10). Zezwolenia na nieprowadzenie transmisji - informuje o decyzjach z ustępu 10). punktu 1.4
+- 10). Zezwolenia - informuje o decyzjach z ustępu 10). i 11). punktu 1.4
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
