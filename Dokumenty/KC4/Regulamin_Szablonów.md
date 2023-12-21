@@ -8,19 +8,19 @@
 
 1.1 W fazie grupowej obowiązują następujące szablony:
 
-- 6lm10e,
-- h3dm3_nc,
-- Kubaryt 1.3,
-- mt_Nebula 1.2,
-- Sapphire 1.9a.
+- 6lm10e (autor: Ercho),
+- h3dm3_nc (autorzy: CzileraInżyniera, Wnukos),
+- Kubaryt 1.3 (autor: Kubaryt),
+- mt_Nebula 1.2 (autor: Wnukos),
+- Sapphire 1.9a (autor: Ercho).
 
 1.2 W fazie pucharowej obowiązują następujące szablony:
 
 - 6lm10e,
-- 8lu6tp,
+- 8lu6tp (autor: Ignus),
 - h3dm3_nc,
 - Kubaryt 1.3,
-- mt_MP 2.0,
+- mt_MP 2.0 (autor: Ravciozo),
 - mt_Nebula 1.2,
 - Sapphire 1.9a.
 
