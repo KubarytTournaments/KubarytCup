@@ -36,12 +36,12 @@
 
 | Nazwa szablonu | Rozmiar mapy | Gracze ludzcy (+AI) | Typ dróg | Siła potworów | Poziom gry | Zegar             | Tury symultaniczne |
 | :----:         | :----:       | :----:              | :----:   | :----:        | :----:     | :----:            | :----:             |
-| 6lm10e         | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 122                |
+| 6lm10e         | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 121                |
 | 8lu6tp         | L+U          | 2(+6)               | Średnie  | Silne         | 160%       | 17:00+06:30+01:15 | 117                |
-| h3dm3_nc       | L+U          | 2                   | Średnie  | Silne         | 160%       | 20:00+07:00+01:15 | 117                |
+| h3dm3_nc       | L+U          | 2                   | Średnie  | Silne         | 160%       | 20:00+07:00+01:15 | 115                |
 | Kubaryt 1.3    | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 122                |
 | mt_MP 2.0      | M+U          | 2                   | Średnie  | Silne         | 130%       | 14:00+06:00+01:15 | 116                |
-| mt_Nebula 1.2  | XL+U         | 2(+6)               | Szybkie  | Silne         | 160%       | 20:00+07:30+01:15 | 121                |
+| mt_Nebula 1.2  | XL+U         | 2(+6)               | Szybkie  | Silne         | 160%       | 20:00+07:30+01:15 | 117                |
 | Sapphire 1.9a  | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 121                |
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
