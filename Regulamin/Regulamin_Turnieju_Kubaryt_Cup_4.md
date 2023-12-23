@@ -16,7 +16,7 @@
 - 2). Definicje Pojęć Kubaryt Cup 4
 - 3). [Regulamin Orzeczeń](../Dokumenty/KC4/RRegulamin_Orzeczeń.md)
 - 4). [Regulamin Orzeczeń Specjalnych](../Dokumenty/KC4/Regulamin_Orzeczeń_Specjalnych.md)
-- 5). [Regulamin Szablonów](../Dokument/KC4/Regulamin_Szablonów.md)
+- 5). [Regulamin Szablonów](../Dokumenty/KC4/Regulamin_Szablonów.md)
 - 6). [Polityka Prywatności](../Dokumenty/KC4/Polityka_Prywatności.md)
 
 0.2c Obowiązuje następująca hierachia Zasad Turnieju:
