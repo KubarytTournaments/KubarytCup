@@ -127,6 +127,96 @@
 
 2.7 Począwszy od fazy 1/4 dolnej drabinki oraz fazy 1/4 dolnej drabinki włącznie Gracz zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii.
 
+## 3. Rozgrywka
+
+3.1 Partie powinny odbywać się za pośrednictwem HotA Lobby dostępnego w Grze. W przypadku gdy HotA Lobby nie jest dostępne Partię można rozegrać za pośrednictwem Hamachi lub Game Rangera.
+
+3.2 Przygotowanie rozgrywki:
+
+- Jeden z Graczy zakłada pokój w HotA lobby (będzie on gospodarzem), drugi Gracz dołącza do założonego przez gospodarza pokoju w lobby (będzie on gościem)
+- Gość wybiera cyfrę 1 lub 0, gospodarz za pośrednictwem opcji `Coin Flip` losuje cyfrę 1 lub 0.
+
+3.3 Wybór szablonów:
+
+- 1). Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA:
+
+  - a) W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu,
+  - b) W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach,
+  - c) W przypadku Bo5 w Finale Fazy Pucharowej zwycięzca Górnej Drabinki jako pierwszy wybiera szablon z pozostałych po losowaniu. Wybrany przez niego szablon zostaje przez niego wygrany w ramach jednego punktu przewagi. Szablony w następnych grach wybierane są przez graczy na przemian zaczynając od zwycięzcy Dolnej Drabinki. Wszystkie gry muszą odbyć się na różnych szablonach,
+  - d) Za zgodą obu Graczy można rozegrać Partię na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
+
+3.4 Wybór koloru oraz zamku:
+
+- 1). Na szablonach nielustrzanych (6lm10e, 8lu6tp, Kubaryt 1.3, Sapphire 1.9a):
+
+  - a) Wylosowanie miast następuje przez opcję Random Town vs Random Town, w przypadku wylosowania dwóch identycznych miast, losowanie należy powtórzyć,
+  - b) Gracze mogą zażądzać ponownego losowania miast (tzw. *reroll*) i zbanowania 0-2 wylosowanych miast za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Gracza w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
+  - c) Licytację o miasto oraz o kolor rozpoczyna gracz, który wygrał rzut monetą. Pierwsza licytacja odnosi się do miast, druga do koloru.
+- 2). Na szablonach lustrznych (h3dm3_nc, mt_MP 2.0, mt_Nebula 1.2):
+
+  - a) Wylosowanie miasta następuje przez opcję Random Town,
+  - b) Gracze mogą zażądzać ponownego losowania miast (tzw. *reroll*) i zbanowania wylosowanego miasta za opłatą 500 sztuk złota. Pierwszy chęć *rerolla* deklaruje zwycięzca rzutu monetą. Przysługuje maksymalnie jeden taki ban na Gracza w ciągu Partii. W przypadku wylosowania takiej samej pary miast jak przed *rerollem*, losowania należy dokonać ponownie,
+  - c) Licytację o kolor rozpoczyna gracz, który wygrał rzut monetą.
+- 3). Wybór bohaterów startowych na szablonach lustrzanych innych niż mt_MP 2.0:
+
+  - a) Gracz czerwony banuje 0-3 bohaterów,
+  - b) Gracz niebieski wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji,
+  - c) Gracz niebieski wybiera jednego z pozostałych bohaterów startowych w wylosowanej frakcji.
+- 3b) Wybór bohaterów startowych na szablonie mt_MP 2.0:
+
+  - a) Zwycięzca licytacji wybiera, czy chce mieć pierwszeństwo w wyborze koloru, czy bohatera startowego,
+  - b) Gracz, mający pierwszeństwo w wyborze koloru, wybiera kolor,
+  - c) Gracz, mający pierwszeństwo w wyborze bohatera startowego wybiera kolor oraz bohatera startowego,
+  - d) Gracz, mający pierwszeństwo w wyborze koloru, wybiera bohatera startowego.
+
+## 4. Restarty
+
+4.1 Pierwszy decyzję o restarcie podejmuje Gracz czerwony, a następnie Gracz niebieski. (Jeśli nastąpi sytuacja, kiedy Gracz niebieski odda turę z chęcią restartu, a następnie Gracz czerwony odda turę i nastąpi kolejny dzień, Gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie Gracz niebieski jest zobowiązany do grania mapy).
+
+4.2 Graczom przysługją restarty techniczne, które dostępne są jeżeli:
+
+- 1). Mapa jest zbugowana, np. brakuje jakiegoś portalu*,
+- 2). Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska,
+- 3). Na drodze znajduje się strażnik, którego pokonanie będzie skutkowało utratą co najmniej 70% wojska, nie blokuje on całego przejścia, ale obejście go kosztuje co najmniej 2000 punktów ruchu.
+
+**Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
+
+4.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli Gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
+
+4.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między Graczami w zbyt wczesnej turze, każdy z Graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między Graczami jest zdefiniowana jako jakakolwiek walka między Graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
+
+## 5. Zakończenie Partii
+
+5.1 Po rozegraniu Partii, Gracz, który przegrał Partię wpisuje “gg” na czacie Gry (oraz w przypadku grania w trybie rankingowym potwierdza przyznanie się do porażki), jest to jednoznaczne z przyznaniem się do porażki oraz dowodem w trakcie pisania sprawozdania z Partii. Decyzji o poddaniu Partii nie można odwołać.
+
+5.2 Po zakończeniu Partii Gracze są zobowiązani do podania haseł, które chronią zapisy Partii.
+
+5.3 Zwycięzca składa raport ze spotkania należy składać na stronie www.h3.gg.
+
+5.3b Na wniosek zainteresowanego, Gracz przegrany może złożyć raport za zwycięzce.
+
+5.4 Jeżeli raport nie zostanie potwierdzony w terminie fazy, ani nie zostanie zgłoszone oszustwo w raporcie, zostaje on uznany za potwierdzony.
+
+5.5 Partia kończy się w momencie potwierdzenia raportu.
+
+## 6. Kary
+
+6.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, niewymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
+
+- 1). Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
+  - a). Drugie ostrzeżenie - walkower na Partię,
+  - b). Trzecie ostrzeżenie - dyskwalifikacja,
+- 2). Walkower na Partię - otrzymywany za małe przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
+- 3). Walkower na Mecz - otrzymywany za średnie przewinienia, w tym składanie fałszywych raportów, może zostać połączony z ostrzeżeniem,
+- 4). Dyskwalifikacja - otrzymywana za duże przewinienia,
+- 5). Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w Turnieju na czas określony, lub nieokreślony.
+
+6.2 Komitet w wyjątkowych sytuacjach może zastosować karę inną niż wymienione w punkcie 6.1.
+
+6.3 Informacje o otrzymaniu kary wraz z ich uzasadnieniem będą publikowane na Discordzie.
+
+6.4 Gracze mogą odwołać się od decyzji Komitetu najpóźniej w dniu zakończenia fazy następującej po fazie, w której otrzymali karę.
+
 ### <p align="right">Zatwierdził SK Jakub "Kubaryt" Starzyk</p>
 
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
