@@ -1,6 +1,6 @@
 # ![logoKC4](link) <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">29/11/2023</p>
+<p align="right">24/12/2023</p>
 
 <h1 align="center">Regulamin Turnieju Kubaryt Cup 4</h1>
 
