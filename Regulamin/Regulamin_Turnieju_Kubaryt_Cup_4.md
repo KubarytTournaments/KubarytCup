@@ -1,6 +1,6 @@
 # ![logoKC4](link) <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">24/12/2023</p>
+<p align="right">29/11/2023</p>
 
 <h1 align="center">Regulamin Turnieju Kubaryt Cup 4</h1>
 
@@ -16,7 +16,7 @@
 - 2). Definicje Pojęć Kubaryt Cup 4
 - 3). [Regulamin Orzeczeń](../Dokumenty/KC4/RRegulamin_Orzeczeń.md)
 - 4). [Regulamin Orzeczeń Specjalnych](../Dokumenty/KC4/Regulamin_Orzeczeń_Specjalnych.md)
-- 5). [Regulamin Szablonów](../Dokumenty/KC4/Regulamin_Szablonów.md)
+- 5). [Regulamin Szablonów](../Dokument/KC4/Regulamin_Szablonów.md)
 - 6). [Polityka Prywatności](../Dokumenty/KC4/Polityka_Prywatności.md)
 
 0.2c Obowiązuje następująca hierachia Zasad Turnieju:
@@ -50,9 +50,15 @@
 1.3 Faza rejestracji:
 
 - 1). Faza rejestracji potrwa od dnia 1 stycznia 2024 do dnia 14 stycznia 2024 włącznie,
-- 2). warunkiem dołączenia do fazy rejestracji jest przeczytanie i zaakcpetowanie Zasad Gry oraz dokonanie zapisu poprzez Stronę Turnieju,
+- 2). warunkiem dołączenia do fazy rejestracji jest przeczytanie i zaakcpetowanie Zasad Turnieju oraz dokonanie zapisu poprzez Stronę Turnieju,
 - 3). w fazie rejestracji nie będą odbywały się rozgrywki turniejowe,
 - 4). dołączenie do fazy rejestracji jest warunkiem wzięcia udziału w dalszych fazach.
+
+1.3b Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do Turnieju, w szczególności jeśli:
+
+- 1). Osoba znana jest z oszukiwania podczas rozgrywek,
+- 2). Osoba znana jest z wysokiej toksyczności,
+- 3). Osoba znana jest z braku szacunku do zasad fair play.
 
 1.4 Faza grupowa:
 
@@ -118,7 +124,7 @@
 
 2.4 Gracze mają obowiązek zachowywać się kulturalnie względem siebie w czasie Partii, przed nią i po niej na czacie Gry, w prywatnych wiadomościach dotyczących Turnieju oraz na Głownym Kanale Komunikacyjnym.
 
-2.5  W Turnieju obowiązują standardowe reguły rozgrywek Hota lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z zasadą Regulaminu, Regulamin ma pierwszeństwo.
+2.5  W Turnieju obowiązują standardowe reguły rozgrywek Hota lobby online. Link do nich można znaleźć [tutaj](https://h3hota.com/en/rules). Jeśli zasada regulaminu Hota stoi w sprzeczności z Zasadami Turnieju, Zasady Turnieju mają pierwszeństwo.
 
 2.6 Akceptując niniejszy Regulamin Gracz:
 
@@ -206,7 +212,7 @@
 - 1). Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
   - a). Drugie ostrzeżenie - walkower na Partię,
   - b). Trzecie ostrzeżenie - dyskwalifikacja,
-- 2). Walkower na Partię - otrzymywany za małe przewinienia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
+- 2). Walkower na Partię - otrzymywany za małe przewini enia, w tym nietrzymanie się terminów, może zostać połączony z ostrzeżeniem,
 - 3). Walkower na Mecz - otrzymywany za średnie przewinienia, w tym składanie fałszywych raportów, może zostać połączony z ostrzeżeniem,
 - 4). Dyskwalifikacja - otrzymywana za duże przewinienia,
 - 5). Ban - otrzymywany za poważne przewinienia, działa podobnie jak dyskwalifikacja, ale nie pozwala graczowi nie udział w Turnieju na czas określony, lub nieokreślony.
