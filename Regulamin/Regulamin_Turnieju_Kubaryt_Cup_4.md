@@ -29,6 +29,8 @@
 
 0.3 Turniej organizowany jest przez Komitet Sędziowski (dalej zwany Komitetem). O sposobie działania Komitetu oraz jego składzie stanowi Regulamin Komitetu Sędziowskiego.
 
+0.3b Ilekrość mowa o Komitecie w zależności od kontekstu może chodzićo członka Komitetu lub cały Komitet
+
 0.4 Zasady Turnieju zatwierdza, zgodnie z trybem ujętym w Regulaminie Komitetu Sędziowskiego oraz Regulaminie Orzeczeń Specjalnych, Szef Komitetu.
 
 0.5 Polskojęzyczna wersja Zasad Turnieju jest wersją podstawową. Jeżeli anglojęzyczna wersja Zasad Turnieju jest sprzeczna z polskojęzyczną, to należy postępować wedle polskojęzycznej wersji Zasad Turnieju.
@@ -43,7 +45,7 @@
 
 ## 1. Format Turnieju
 
-1.1 Turniej organizowany jest za pośrednictwem Głównego Kanału Komunikacyjnego oraz Strony Turnieju.
+1.1 Turniej organizowany jest za pośrednictwem [Głównego Kanału Komunikacyjnego](https://discord.gg/r6dS4D9edd) oraz [Strony Turnieju](https://www.h3.gg/competitions/v2/81).
 
 1.2 Turniej zostanie podzielony na 3 fazy - fazę rejetracji, fazę grupową oraz fazę pucharową
 
@@ -73,13 +75,15 @@
 - 9). w przypadku zdobycia przez dwóch lub więcej Graczy w jednej grupie równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Graczami,
 - 10). w przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Graczy A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Gracz A wygrał Mecz bezpośredni z Graczem B, B z C, a C z A) należy rozegrać dogrywki,
 - 11). dogrywki powinny zostać rozegrane na szablonie h3dm3_nc,
-- 12). w przypadku, w którym w wyniku dogrywek powtórzy się sytuacja z podpunktu 9, Komitet rostrzygnie kolejność w grupie poprzez rzut monetą zgodnie z punktem 2.2,
-- 13). faza grupowa zakończy się z dniem upłynięcia terminu wyznaczonego przez Komitet w Orzeczeniu.
+- 12). w przypadku, w którym w wyniku dogrywek powtórzy się sytuacja z podpunktu 9, Komitet rostrzygnie kolejność w grupie poprzez rzut monetą zgodnie z ustępem 13).,
+- 13). Rzut monetą przeprowadzany jest przez członka Komitetu przy obecności wszystkich Graczy, których on dotyczy, jednego członka Komitetu, poza prowadzącym, oraz conajmniej jednego Gracza, którego rzut monetą nie dotyczy. Cała procedura powinna zostać nagrana przez jednego z członków Komitetu,
+- 13b). W szczególnych sytuacjach można wykonać tę procedurę bez obecności wszystkich wymienionych osób, jednak liczba obecnych przy rzucie monetą musi wynosić co najmniej 3,
+- 14). faza grupowa zakończy się z dniem upłynięcia terminu wyznaczonego przez Komitet w Orzeczeniu.
 
 1.5 Faza pucharowa:
 
-- 1). Faza pucharowa rozpocznie się dzień po zakończeniu fazy grupowej, jej czas trwania zostanie określony przez Komitet wraz z podaniem dnia zakońćzenia finału,
-- 2). warunkiem dołączenia do fazy pucharowej jest zwycięstwo fazy grupowej,
+- 1). Faza pucharowa rozpocznie się dzień po zakończeniu fazy grupowej, jej czas trwania zostanie określony przez Komitet wraz z podaniem dnia zakończenia finału,
+- 2). warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie grupowej,
 - 3). w fazie pucharowej gracze zmierzą się w parach, które zostaną ustalone na podstawie liczby punktów zdobytych w poprzedniej fazie oraz w drugiej kolejnośći Systemu Rankingowego Kammer,
 - 4). w fazie pucharowej zostanie zastosowany system podwójnej eliminacji, w związku z tym zostanie ona podzielona na 2 fazy: fazę górnej drabinki i fazę dolnej drabinki,
 - 5). faza górnej drabinki:
@@ -102,7 +106,7 @@
 
 ## 2. Fair Play, wymagane zgody i inne wymagania
 
-2.1 Zakaz wykorzystywania crashów do zyskania przewagi. Po wczytaniu mapy z powodu błędu Gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli Sędzia uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli Gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści Sędzią może ukarać go walkowerem na Partię. Jeśli Gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
+2.1 Wykorzystywanie crashów do zyskywania przewagi jest zakazane. Po wczytaniu mapy z powodu błędu Gry należy powtórzyć swoje ruchy na mapie przygody oraz w walkach w danej turze w której nastąpił błąd. Jeżeli Komitet uzna że nie były powtarzane ruchy może zarządzić powtórne wczytanie mapy. Jeżeli Gracz umyślnie będzie zmieniał swoje ruchy by osiągnąć korzyści Komitet może ukarać go walkowerem na Partię. Jeśli Gracz po wczytaniu gry będzie miał nadmiar czasu, powinien ten nadmiar spędzić czekając na ekranie miasta lub bohatera - nie na analizowaniu rozgrywki lub graniu. W przypadku braku timera działania te mogą dać niezasłużoną przewagę.
 
 2.2 Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej Partii. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
 
@@ -117,7 +121,7 @@
 - 9). Oglądanie swojego streama lub nagrania z danej Partii w trakcie jej trwania: Zabronione,
 - 10). Screenshoty: Zabronione,
 - 11). Poradniki wideo: Dozwolone,
-- 12). Własne notatki o Grze: Dozwolone,
+- 12). Własne notatki o Grze lub Partii: Dozwolone,
 - 13). Makra i bindy: Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem.
 
 2.3 Zakazane jest wykorzystywanie zapisów Partii do zmiany ruchów wykonanych przed nimi.
@@ -147,7 +151,7 @@
 - 1). Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA:
 
   - a) W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu,
-  - b) W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do gry na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach,
+  - b) W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do kolejnych Partii w Meczu na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach,
   - c) W przypadku Bo5 w Finale Fazy Pucharowej zwycięzca Górnej Drabinki jako pierwszy wybiera szablon z pozostałych po losowaniu. Wybrany przez niego szablon zostaje przez niego wygrany w ramach jednego punktu przewagi. Szablony w następnych grach wybierane są przez graczy na przemian zaczynając od zwycięzcy Dolnej Drabinki. Wszystkie gry muszą odbyć się na różnych szablonach,
   - d) Za zgodą obu Graczy można rozegrać Partię na innej wersji szablonu niż domyślna, zaleca się ustalenie preferowanej wersji szablonu przed rozpoczęciem wyboru szablonów.
 
@@ -187,7 +191,7 @@
 
 **Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
 
-4.3 Restarty techniczne można wykorzystać od 111 do 114 włącznie. Jeżeli Gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
+4.3 Restarty techniczne można wykorzystać od 111 do 115 włącznie. Jeżeli Gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
 
 4.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między Graczami w zbyt wczesnej turze, każdy z Graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między Graczami jest zdefiniowana jako jakakolwiek walka między Graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
 
@@ -207,7 +211,7 @@
 
 ## 6. Kary
 
-6.1 Komitet ma do dyspozycji kilka możliwości w jakie możę karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, niewymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
+6.1 Komitet ma do dyspozycji kilka możliwości w jakie może karać Graczy za nieprzestrzeganie Regulaminu oraz w wyjątkowych, niewymienionych przez Regulamin, sytuacjach. Poziomy kar zdefiniowane są w następujący sposób:
 
 - 1). Ostrzeżenie - otrzymywane za drobne przewinienia. Pierwsze ostrzeżenia nie niesie ze sobą dodatkowych konsekwencji, ale każde następne już tak:
   - a). Drugie ostrzeżenie - walkower na Partię,
