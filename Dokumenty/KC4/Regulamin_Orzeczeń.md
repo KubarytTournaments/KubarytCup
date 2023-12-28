@@ -28,7 +28,9 @@
 - 8). Podjęcie decyzji o kwestii nieujętej Regulaminem, zgodnie z punktem właściwym Regulaminu,
 - 9). Zakończenie Meczu przez rzut monetą, zgodnie z procedurą ujętą we właściwym punkcie Regulaminu,
 - 10). Pozwolenie na nieprowadzenie transmisji z Partii w fazie, w której jest to obowiązkowe,
-- 11). Udzielenie lub zabranie dostępu do Bazy Danych Turnieju.
+- 11). Udzielenie lub zabranie dostępu do Bazy Danych Turnieju,
+- 12). Ustalenie kolejności w grupie na podstawie rzutu monetą,
+- 13). Podanie do wiadomości wyniku dogrywek.
 
 1.4a. Decyzję z ustępu 11). punktu 1.4 może podjąć tylko Szef Komitetu lub Sekretarz.
 
@@ -50,6 +52,7 @@
 - 6). Terminarz - informuje o Terminach faz.
 - 7). Przedłużenia terminów - informuje o zmianach w Terminarzu.
 - 8). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu 5). oraz 9). z punktu 1.4
+- 9). Dogrywki - informuje o decyzjach z ustępów 12). i 13). z punktu 1.4
 - 9). Wykładnia - informuje o decyzjach z ustępu 6). z punktu 1.4
 - 10). Zezwolenia - informuje o decyzjach z ustępu 10). i 11). punktu 1.4
 
