@@ -1,6 +1,6 @@
 # ![logoKC4](link) <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">29/11/2023</p>
+<p align="right">29/12/2023</p>
 
 <h1 align="center">Regulamin Turnieju Kubaryt Cup 4</h1>
 
@@ -13,7 +13,7 @@
 0.2b Dokumenty będące częścią Zasad Turnieju:
 
 - 1). [Regulamin Komitetu Sędziowskiego](../Dokumenty/KC4/Regulamin_Komitetu_Sędziowskiego.md)
-- 2). Definicje Pojęć Kubaryt Cup 4
+- 2). [Definicje Pojęć Kubaryt Cup 4](../Dokumenty/KC4/Definicje_Pojęć_Kubaryt_Cup_4.md)
 - 3). [Regulamin Orzeczeń](../Dokumenty/KC4/RRegulamin_Orzeczeń.md)
 - 4). [Regulamin Orzeczeń Specjalnych](../Dokumenty/KC4/Regulamin_Orzeczeń_Specjalnych.md)
 - 5). [Regulamin Szablonów](../Dokument/KC4/Regulamin_Szablonów.md)
