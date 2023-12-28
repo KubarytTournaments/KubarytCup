@@ -19,7 +19,7 @@
 - 3). Ustalenie terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
 - 4). Zmiana terminu na daną fazę zgodnie z punktem właściwym Regulaminu,
 - 5). Zakończenie Meczu, który zgodnie z punktem właściwym Regulaminu powinine zostać zakończonym w systemie Bo3 albo Bo5, w systemie Bo1 albo Bo3,
-- 6). Wykładnia niejasnego fragmentu Zasad Gry
+- 6). Wykładnia niejasnego fragmentu Zasad Turnieju,
 - 7). Informacje nt. działań Graczy. Tj.:
 
   - a) Wycofanie z Turnieju,
