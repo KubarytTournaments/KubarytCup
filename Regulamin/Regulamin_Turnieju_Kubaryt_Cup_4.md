@@ -164,7 +164,8 @@
 
 3.3 Wybór szablonów:
 
-- 1). Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA:
+- 1). Szablony obowiązujące w turnieju można znaleźć w Regulaminie Szablonów,
+- 2). Zwycięzca rzutu monetą rozpoczyna banowanie spośród pozostałych szablonów w systemie ABBA:
 
   - a) W przypadku Bo1 gracze banują szablony do pozostawienia jednego szablonu,
   - b) W przypadku Bo3 gracze banują szablonu do pozostawienia 3 szablomów. Gracze wybierają szablony do kolejnych Partii w Meczu na przemian zaczynając od Gracza, który zbanował przedostatni szablon. Wszystkie gry muszą odbyć się na różnych szablonach,
