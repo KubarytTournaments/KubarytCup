@@ -151,7 +151,7 @@
 - 1). Akceptuje Politykę Prywatnośći Turnieju,
 - 2). Nadaje Komitetowi niezbywalne i niewyłączne prawo do retransmisji, nagrywania i udostępniania wybranych Partii rozgrywanych w Turnieju w celu udostępniania komentarza i archiwizacji. Komitet może dzielić się tym prawem z osobami trzecimi.
 
-2.7 Począwszy od fazy 1/4 dolnej drabinki oraz fazy 1/4 dolnej drabinki włącznie Gracz zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii.
+2.7 Począwszy od fazy 1/4 górnej drabinki oraz fazy 1/4 dolnej drabinki włącznie Gracz zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Partii.
 
 ## 3. Rozgrywka
 
