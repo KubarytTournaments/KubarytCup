@@ -7,7 +7,7 @@
 ## Spis treści
 
 - [0. Wstęp](#0-wstęp) - Określa najważniejsze kwestie związane z zapleczem organizatorskim. M.in. organizatorów Turnieju i dokumenty stanowiące zasady Turnieju,
-- [1. Postanowienia Ogólne](#1-format-turnieju) - Określa warunki uczestnictwa, liczbę i przebieg faz i oficjalny sposób komunikacji,
+- [1. Format Turnieju](#1-format-turnieju) - Określa warunki uczestnictwa, liczbę i przebieg faz i oficjalny sposób komunikacji,
 - [2. Fair play, wymagane zgody i inne wymagania](#2-fair-play-wymagane-zgody-i-inne-wymagania) - Określa fazy w Turineju, sposób ich przebiegu i ich terminarz,
 - [3. Rozgrywka](#3-rozgrywka) - Określa sposób rozgrywania gier i sposób wyboru szablonów, kolorów i zamków,
 - [4. Restarty](#4-restarty) - Określa zasady korzystania z restartów w Partiach,
