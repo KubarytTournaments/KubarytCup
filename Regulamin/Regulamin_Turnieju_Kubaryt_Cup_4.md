@@ -1,8 +1,18 @@
 # ![logoKC4](link) <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">29/12/2023</p>
+<p align="right">30/12/2023</p>
 
 <h1 align="center">Regulamin Turnieju Kubaryt Cup 4</h1>
+
+## Spis treści
+
+- [0. Wstęp](#0-wstęp) - Określa najważniejsze kwestie związane z zapleczem organizatorskim. M.in. organizatorów Turnieju i dokumenty stanowiące zasady Turnieju,
+- [1. Postanowienia Ogólne](#1-format-turnieju) - Określa warunki uczestnictwa, liczbę i przebieg faz i oficjalny sposób komunikacji,
+- [2. Fair play, wymagane zgody i inne wymagania](#2-fair-play-wymagane-zgody-i-inne-wymagania) - Określa fazy w Turineju, sposób ich przebiegu i ich terminarz,
+- [3. Rozgrywka](#3-rozgrywka) - Określa sposób rozgrywania gier i sposób wyboru szablonów, kolorów i zamków,
+- [4. Restarty](#4-restarty) - Określa zasady korzystania z restartów w Partiach,
+- [5. Zakończenie Partii](#5-zakończenie-partii) - określa sposób zakończenia Partii.
+- [6. Kary](#6-kary) - określa rodzaje kar i sposób ich wydawania oraz tryb odwołania się od kary,
 
 ## 0. Wstęp
 
@@ -42,6 +52,12 @@
 0.8 Komitet może wydawać Orzeczenia, sposób wydawania Orzeczeń i ich kształt reguluje Regulamin Orzeczeń oraz Regulamin Orzeczeń Specjalnych.
 
 0.9 Politykę prywatności Turnieju określa Polityka Prywatności Kubaryt Cup 4.
+
+0.10 Pula nagród Turnieju:
+
+- 1). I miejsce - 150 zł + koszulka z nadrukiem,
+- 2). II miejsce - 100 zł + kubek z nadrukiem,
+- 3). III miejsce - 50 zł.
 
 ## 1. Format Turnieju
 
