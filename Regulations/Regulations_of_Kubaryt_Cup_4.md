@@ -59,6 +59,13 @@
 - 2). 2nd place - PLN 100 + printed mug,
 - 3). 3rd place - PLN 50.
 
+0.11 The Committee reserves the right not to admit the selected person to performing Official Functions:
+
+- 1). The person is known to cheat during parties,
+- 2). The person is known for high toxitown,
+- 3). The person is known for his lack of respect for fair play.
+
+
 ## 1. Tournament Format
 
 1.1 The Tournament is organized through the [Main Communication Channel](https://discord.gg/r6dS4D9edd) and the [Tournament Website](https://www.h3.gg/competitions/v2/81).
