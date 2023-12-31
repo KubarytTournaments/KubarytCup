@@ -1,0 +1,45 @@
+﻿Changes from the original mt_Andromeda (by WiC):
+
+mt_Nebula 1.0 (14.12.2022)
+------------------------------------
+
+1) Banned spells: Sorrow, Slayer, Fire Shield, Inferno, Counterstrike, Magic Mirror, Sacrifice
+2) Banned heroes: Ciele, Deemer, Solmyr, Aislinn, Thant, Vidomina, Leena, Korbac, Fiona
+3) Added heroes: Boragus, Catherine, Roland, Haart Lich, Mutare, Mutare Drake
+4) Banned objects: Tavern, Prison, Grave
+5) Banned artifacts: Tome of Air Magic, Spellbinder's Hat, Bird of Perception, Stoic Watchman, Emblem of Cognizance
+6) Banned skills: First Aid, Learning, Eagle eye 
+7) Zone settings:
+   - Zones nr 5, 6, 7, 25, 26, and 27 can be set to either neutral zones or AI zones by setting number of computer players to 0 or 6, respectively
+   - Terrain in the transition zones (nr 2, 3, 4, 22, 23, 24) now matches the village type in those zones.
+8) Zone content:
+   - Zone nr 2, 22 - 1x Sulfur Mine, 1x Mercury Mine, any town type but Conflux
+   - Zone nr 4, 24 - 1x Gems Mine, 1x Crystal Mine, any town type but Conflux
+   - Zone nr 3, 23 - 2x gold mine, Conflux zone
+
+mt_Nebula 1.1 (20.03.2023)
+----------------------------------
+
+1) Banned artifacts: Endless Sack of Gold
+2) Added artifacts: Golden Goose
+3) Banned objects: Watering Place, Seer Huts, Pandora Boxes with all t5 spells, Pandora Boxes with all air/earth/fire/water magic spells
+4) Modified objects: Imp Cache value changed from 5k to 3k, Griffin Conservatory limit set to 2 per zone
+
+mt_Nebula 1.2 (05.10.2023)
+-----------------------------------
+1) Banned artifacts: Angel Wings
+2) Modified objects: 
+   - frequency of creature dwellings t1 - t7 changed from 100 to 120
+   - frequency of Dragon Utopias changed from 100 to 150 with max limit 2 per zone
+   - frequency of Red Tower changed from 20 to 80, no limit per zone is set
+3) Objects banned in treasure zones (id = 8 - 13): 
+   - Spell scrolls t1 - t3, Shrine of Magic t1 - t3, Pandora's Box with spells t1 - t3
+   - Creature Dwelling t1 - t4
+   - Freelancer's Guild, Cannon Yard, War Machine Factory
+4) Template and zone settings:
+   - Rock Block Radius set to 3.5
+   - Zone sparseness set to 0.7
+   - Dimension of zones 1 - 7 changed from 30 to 25
+   - Dimension of zones 8 - 13 changed from 10 to 15
+   - Zone repulsion between zones 8 - 13 is set
+   - Portal repulsion is set for portals connecting zones on different sides of the mirror. All portals are two-hex now
