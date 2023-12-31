@@ -59,6 +59,12 @@
 - 2). II miejsce - 100 zł + kubek z nadrukiem,
 - 3). III miejsce - 50 zł.
 
+0.11 Komitet zastrzega sobie prawo do niedopuszczenia wybranej osoby do pełnienia Oficjalnych Funkcji:
+
+- 1). Osoba znana jest z oszukiwania podczas rozgrywek,
+- 2). Osoba znana jest z wysokiej toksyczności,
+- 3). Osoba znana jest z braku szacunku do zasad fair play.
+
 ## 1. Format Turnieju
 
 1.1 Turniej organizowany jest za pośrednictwem [Głównego Kanału Komunikacyjnego](https://discord.gg/r6dS4D9edd) oraz [Strony Turnieju](https://www.h3.gg/competitions/v2/81).
