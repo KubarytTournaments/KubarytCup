@@ -1,6 +1,6 @@
 # ![logoKC4](link) <br>Kubaryt Cup 4 <br>Judges Committee
 
-<p align="right">30/12/2023</p>
+<p align="right">31/12/2023</p>
 
 <h1 align="center">Regulations of Kubaryt Cup 4 Tournament</h1>
 
@@ -250,6 +250,6 @@ Early meeting restarts. If players interact with each other in early turns, each
 
 6.4 Players may appeal against the decision of the Committee at the latest on the day of the end of the phase following the phase in which they received the penalty.
 
-### <p align="right">Approved by SK Jakub "Kubaryt" Starzyk</p>
+### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
 
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
