@@ -53,8 +53,8 @@
 - 7). Przedłużenia terminów - informuje o zmianach w Terminarzu.
 - 8). Zmiana systemu rozgrywania meczów - informuje o decyzjach z ustępu 5). oraz 9). z punktu 1.4
 - 9). Dogrywki - informuje o decyzjach z ustępów 12). i 13). z punktu 1.4
-- 9). Wykładnia - informuje o decyzjach z ustępu 6). z punktu 1.4
-- 10). Zezwolenia - informuje o decyzjach z ustępu 10). i 11). punktu 1.4
+- 10). Wykładnia - informuje o decyzjach z ustępu 6). z punktu 1.4
+- 11). Zezwolenia - informuje o decyzjach z ustępu 10). i 11). punktu 1.4
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
