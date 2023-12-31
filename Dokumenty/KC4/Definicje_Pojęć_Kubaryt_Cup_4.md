@@ -19,7 +19,11 @@
 - 2). Mecz - seria wszystkich Partii rozgrywanych pomiędzy dwoma konkretnymi Graczami w danej fazie Turnieju,
 - 3). Partia - pojedyncza rozgrywka między dwoma konkretnymi Graczami, w ramach Turnieju,
 - 4). Streamer - Gracz transmitujący swoją Partię w Turnieju,
-- 5). System Rankingowy Kammera - ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg. Na potrzeby Turnieju przyjęto okres od 7 Grudnia 2022 do 7 Grudnia 2023. Wagi szablonów:
+- 5). Oficjalne Funkcje - funkcje reprezentujące Turniej lub jego część:
+  - a). Członek Komitetu Sędziowskiego,
+  - b). Komentator retransmisji Partii,
+  - c). Host retransmisji Partii.
+- 6). System Rankingowy Kammera - ranking oparty o system elo, generowany z wyników meczów turniejowych zaraportowanych na stronie H3gg. Na potrzeby Turnieju przyjęto okres od 7 Grudnia 2022 do 7 Grudnia 2023. Wagi szablonów:
 ```
 h3dm:   1
 mtfw:   0.78
