@@ -1,48 +1,48 @@
-# ![logoKC4](link) <br>Kubaryt Cup 4 <br>Komitet Sędziowski
+# ![logoKC4](link) <br>Kubaryt Cup 4 <br>Referees Committee
 
-<p align="right">20/12/2023</p>
+<p align="right">31/12/2023</p>
 
-<h1 align="center">Regulamin Szablonów</h1>
+<h1 align="center">Template Regulations</h1>
 
-## 1. Szablony obowiązujące w Turnieju
+## 1. Templates applicable in the Tournament
 
-1.1 W fazie grupowej obowiązują następujące szablony:
+1.1 The following templates apply in the group phase:
+
+- 6lm10e (author: Ercho),
+- h3dm3_nc (authors: CzileraInżyniera, Wnukos),
+- Kubaryt 1.3 (author: Kubaryt),
+- mt_Nebula 1.2 (author: Wnukos),
+- Sapphire 1.9a (author: Ercho).
+
+1.2 The following templates apply in the knockout phase:
 
 - 6lm10e,
+- 8lu6tp (author: Ignus),
 - h3dm3_nc,
 - Kubaryt 1.3,
+- mt_MP 2.0 (author: Ravciozo),
 - mt_Nebula 1.2,
 - Sapphire 1.9a.
 
-1.2 W fazie pucharowej obowiązują następujące szablony:
+1.3 The download link for all the above-mentioned templates is available on [Github](https://github.com/KubarytTournaments/KubarytCup/tree/Templates).
 
-- 6lm10e,
-- 8lu6tp,
-- h3dm3_nc,
-- Kubaryt 1.3,
-- mt_MP 2.0,
-- mt_Nebula 1.2,
-- Sapphire 1.9a.
+1.4 With the consent of both Players, the Game may be played on a version of the template other than the default one.
 
-1.3 Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Githubie](https://github.com/KubarytTournaments/KubarytCup/tree/Templates).
+## 2. Default template settings for tournament play
 
-1.4 Za zgodą obu Graczy, Partia może zostać rozegrana na innej wersji szablonu niż domyślna.
+2.1 With the consent of both Players, the timer, simultaneous turns or AI number settings may be changed.
 
-## 2. Domyślne ustawienia szablonów w rozgrywkach turniejowych
+2.2 Default template settings:
 
-2.1 Za zgodą obu Graczy ustawienia zegara, tur symultanicznych, bądź liczby AI mogą zostać zmienione.
+| Template name | Map size | Human players (+AI) | Road type | Monster Strength | Difficulty | Timer             | Simultaneous turns |
+| :----:        | :----:   | :----:              | :----:    | :----:           | :----:     | :----:            | :----:             |
+| 6lm10e        | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 121                |
+| 8lu6tp        | L+U      | 2(+6)               | Medium    | Strong           | 160%       | 17:00+06:30+01:15 | 117                |
+| h3dm3_nc      | L+U      | 2                   | Medium    | Strong           | 160%       | 20:00+07:00+01:15 | 115                |
+| Kubaryt 1.3   | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 122                |
+| mt_MP 2.0     | M+U      | 2                   | Medium    | Strong           | 130%       | 14:00+06:00+01:15 | 116                |
+| mt_Nebula 1.2 | XL+U     | 2(+6)               | Fast      | Strong           | 160%       | 20:00+07:30+01:15 | 117                |
+| Sapphire 1.9a | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 121                |
 
-2.2 Domyślne ustawienia szablonów:
-
-| Nazwa szablonu | Rozmiar mapy | Gracze ludzcy (+AI) | Typ dróg | Siła potworów | Poziom gry | Zegar             | Tury symultaniczne |
-| :----:         | :----:       | :----:              | :----:   | :----:        | :----:     | :----:            | :----:             |
-| 6lm10e         | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 121                |
-| 8lu6tp         | L+U          | 2(+6)               | Średnie  | Silne         | 160%       | 17:00+06:30+01:15 | 117                |
-| h3dm3_nc       | L+U          | 2                   | Średnie  | Silne         | 160%       | 20:00+07:00+01:15 | 115                |
-| Kubaryt 1.3    | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 122                |
-| mt_MP 2.0      | M+U          | 2                   | Średnie  | Silne         | 130%       | 14:00+06:00+01:15 | 116                |
-| mt_Nebula 1.2  | XL+U         | 2(+6)               | Szybkie  | Silne         | 160%       | 20:00+07:30+01:15 | 121                |
-| Sapphire 1.9a  | XL+U         | 2(+6)               | Średnie  | Silne         | 160%       | 18:00+07:00+01:15 | 121                |
-
-### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
-<div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
+### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
+<div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width :200px; float:right;"/></div>
