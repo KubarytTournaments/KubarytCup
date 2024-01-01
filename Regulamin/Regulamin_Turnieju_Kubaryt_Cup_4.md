@@ -73,7 +73,7 @@
 
 1.3 Faza rejestracji:
 
-- 1). Faza rejestracji potrwa od dnia 1 stycznia 2024 do dnia 14 stycznia 2024 włącznie,
+- 1). Faza rejestracji potrwa od dnia 1 stycznia 2024 do dnia 15 stycznia 2024 włącznie,
 - 2). warunkiem dołączenia do fazy rejestracji jest przeczytanie i zaakcpetowanie Zasad Turnieju oraz dokonanie zapisu poprzez Stronę Turnieju,
 - 3). w fazie rejestracji nie będą odbywały się rozgrywki turniejowe,
 - 4). dołączenie do fazy rejestracji jest warunkiem wzięcia udziału w dalszych fazach.
