@@ -1,4 +1,4 @@
-# ![logoKC4](link) <br>Kubaryt Cup 4 <br>Judges Committee
+# <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Judges Committee
 
 <p align="right">31/12/2023</p>
 
