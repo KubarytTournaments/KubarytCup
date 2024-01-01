@@ -74,7 +74,7 @@
 
 1.3 Registration phase:
 
-- 1). The registration phase will last from 01/01/2024 to 14/01/2024 inclusive,
+- 1). The registration phase will last from 01/01/2024 to 15/01/2024 inclusive,
 - 2). The condition for joining the registration phase is to read and accept the Tournament Rules and register via the Tournament Website,
 - 3). there will be no tournament games during the registration phase,
 - 4). Joining the registration phase is a condition for participating in subsequent phases.
