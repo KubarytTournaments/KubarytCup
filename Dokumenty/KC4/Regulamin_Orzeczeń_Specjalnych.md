@@ -18,7 +18,7 @@
 - 6). Wykładnia niejasnego punktu Zasad Turnieju,
 - 7). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu,
 - 8). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
-- 9). Ustanowienie reguły obowiązującej w Turnieju, nie aktualizując innych Zasad Gry
+- 9). Ustanowienie reguły obowiązującej w Turnieju, nie aktualizując innych Zasad Turnieju
 
 ## 2. Kształt Orzeczeń
 
