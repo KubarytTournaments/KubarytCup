@@ -24,9 +24,9 @@
 
 - 1). [Regulamin Komitetu Sędziowskiego](../Dokumenty/KC4/Regulamin_Komitetu_Sędziowskiego.md)
 - 2). [Definicje Pojęć Kubaryt Cup 4](../Dokumenty/KC4/Definicje_Pojęć_Kubaryt_Cup_4.md)
-- 3). [Regulamin Orzeczeń](../Dokumenty/KC4/RRegulamin_Orzeczeń.md)
+- 3). [Regulamin Orzeczeń](../Dokumenty/KC4/Regulamin_Orzeczeń.md)
 - 4). [Regulamin Orzeczeń Specjalnych](../Dokumenty/KC4/Regulamin_Orzeczeń_Specjalnych.md)
-- 5). [Regulamin Szablonów](../Dokument/KC4/Regulamin_Szablonów.md)
+- 5). [Regulamin Szablonów](../Dokumenty/KC4/Regulamin_Szablonów.md)
 - 6). [Polityka Prywatności](../Dokumenty/KC4/Polityka_Prywatności.md)
 
 0.2c Obowiązuje następująca hierachia Zasad Turnieju:
