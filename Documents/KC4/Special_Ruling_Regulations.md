@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Judges Committee
 
-<p align="right">31/12/2023</p>
+<p align="right">11/01/2024</p>
 
 <h1 align="center">Special Rulings Regulations</h1>
 
@@ -18,6 +18,7 @@
 - 6). Interpretation of an unclear point of the Tournament Rules,
 - 7). Repealing the decision of the Committee or a Committee Member, excluding appeals against decisions in accordance with the relevant point of the Regulations,
 - 8). Assignment of Committee Members to specific areas of the Tournament,
+- 9). Establishing a rule applicable to the Tournament, without updating other Tournament Rules,
 
 ## 2. Shape of Special Rulings
 
@@ -32,6 +33,7 @@
 - 3). Thanks and congratulations - decisions from paragraph 3). point 1.2
 - 4). Winners - decisions from section 4). point 1.2
 - 5). Interpretation - decisions from paragraph 6). point 1.2
+- 6). Provisions - decisions from paragraph 9). point 1.2
 
 ### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
