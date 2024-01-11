@@ -11,7 +11,7 @@
 - 1). Baza Danych Turnieju - repozytorium zawierające dane wymienione w Polityce Prywatności,
 - 2). Github - repozytorium Turnieju na Githubie [link](https://github.com/KubarytTournaments/KubarytCup/tree/Polish),
 - 3). Główny Kanał Komunikacyjny (zwany również Discordem) - serwer Discord H3gg [link](https://discord.com/invite/r6dS4D9edd),
-- 4). Strona Turnieju - strona Turnieju na stronie H3gg [link](https://h3.gg/competitions/V2/81).
+- 4). Strona Turnieju - strona Turnieju na stronie H3gg [link](https://h3.gg/competitions/v2/81).
 
 1.2 Inne definicje:
 
