@@ -54,7 +54,8 @@
 - 8). Change of the match playing system - informs about the decisions from section 5). and 9). from point 1.4
 - 9). Overtime - informs about decisions from paragraphs 12). and 13). from point 1.4
 - 10). Interpretation - informs about decisions from paragraph 6). from point 1.4
-- 11). Permits - informs about decisions from section 10). and 11). point 1.4
+- 11). Permits - informs about decisions from paragraph 10). and 11). point 1.4
+- 12). Provisions - informs about decisions from paragraph 8). point 1.4
 
 ### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
