@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">7/12/2023</p>
+<p align="right">11/01/2024</p>
 
 <h1 align="center">Regulamin Orzeczeń</h1>
 
@@ -55,6 +55,7 @@
 - 9). Dogrywki - informuje o decyzjach z ustępów 12). i 13). z punktu 1.4
 - 10). Wykładnia - informuje o decyzjach z ustępu 6). z punktu 1.4
 - 11). Zezwolenia - informuje o decyzjach z ustępu 10). i 11). punktu 1.4
+- 12). Postanowienia - informuje o decyzjach z ustępu 8). punktu 1.4
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
