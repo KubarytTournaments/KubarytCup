@@ -9,9 +9,9 @@
 1.1 Tournament related sites:
 
 - 1). Tournament Database - a repository containing data listed in the Privacy Policy,
-- 2). Github - Tournament repository on Github [link](https://github.com/KubarytTournaments/KubarytCup/tree/Polish),
+- 2). Github - Tournament repository on Github [link](https://github.com/KubarytTournaments/KubarytCup/tree/English),
 - 3). Main Communication Channel (also called Discord) - Discord H3gg server [link](https://discord.com/invite/r6dS4D9edd),
-- 4). Tournament Website - Tournament page on the H3gg website [link](https://h3.gg/competitions/V2/81).
+- 4). Tournament Website - Tournament page on the H3gg website [link](https://h3.gg/competitions/v2/81).
 
 1.2 Other definitions:
 
