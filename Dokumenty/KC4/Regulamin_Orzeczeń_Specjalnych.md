@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">7/12/2023</p>
+<p align="right">11/01/2024</p>
 
 <h1 align="center">Regulamin Orzeczeń Specjalnych</h1>
 
@@ -18,6 +18,7 @@
 - 6). Wykładnia niejasnego punktu Zasad Turnieju,
 - 7). Uchylenie decyzji Komitetu lub Członka Komitetu z wyłączeniem odwołań od decyzji zgodnych z właściwym punktem Regulaminu,
 - 8). Przydział Członków Komitetów do konkretnych obszarów Turnieju,
+- 9). Ustanowienie reguły obowiązującej w Turnieju, nie aktualizując innych Zasad Gry
 
 ## 2. Kształt Orzeczeń
 
@@ -32,6 +33,7 @@
 - 3). Podziękowania i gratulacje - decyzje z ustępu 3). punktu 1.2
 - 4). Zwycięzcy - decyzje z ustępu 4). punktu 1.2
 - 5). Wykładnia - decyzje z ustępu 6). punktu 1.2
+- 6). Postanowienia - informuje o decyzjach z ustępu 9). punktu 1.2
 
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
