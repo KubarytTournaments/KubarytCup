@@ -1,6 +1,6 @@
 # <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Judges Committee
 
-<p align="right">31/12/2023</p>
+<p align="right">11/01/2024</p>
 
 <h1 align="center">Rulings Regulations</h1>
 
