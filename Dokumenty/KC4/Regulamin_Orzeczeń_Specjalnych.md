@@ -35,5 +35,7 @@
 - 5). Wykładnia - decyzje z ustępu 6). punktu 1.2
 - 6). Postanowienia - informuje o decyzjach z ustępu 9). punktu 1.2
 
+2.3b W Treści Orzeczenia Specjalnego mogą znaleźć się także wszystkie punkty z punktu 2.4 Regulaminu Orzeczeń, które nie wykluczają się wzajemnie z tymi wymienionymi w punkcie 2.3 niniejszego Regulaminu.
+
 ### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
