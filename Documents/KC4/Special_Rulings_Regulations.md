@@ -35,5 +35,7 @@
 - 5). Interpretation - decisions from paragraph 6). point 1.2
 - 6). Provisions - decisions from paragraph 9). point 1.2
 
+2.3b The content of Special Ruling may also include all points from point 2.4 of the Rulings Regulations, which are not mutually exclusive with those listed in point 2.3 of these Regulations.
+
 ### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div>
