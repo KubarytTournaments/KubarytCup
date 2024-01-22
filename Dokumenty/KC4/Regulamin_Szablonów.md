@@ -14,7 +14,7 @@
 - mt_Nebula 1.3, (autor: Wnukos)
 - Sapphire 2.0. (autor: Ercho)
 
-1.2 W fazie pucharowej obowiązują następujące szablony:
+1.2 W fazie eliminacji i fazie pucharowej obowiązują następujące szablony:
 
 - 6lm10f, 
 - 8lu6tp, (autor: Ignus)
