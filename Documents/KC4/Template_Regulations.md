@@ -14,7 +14,7 @@
 - mt_Nebula 1.3 (author: Wnukos),
 - Sapphire 2.0 (author: Ercho).
 
-1.2 The following templates apply in the knockout phase:
+1.2 The following templates apply in the elimination phase and the knockout phase:
 
 - 6lm10e,
 - 8lu6tp (author: Ignus),
