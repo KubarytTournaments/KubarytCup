@@ -70,11 +70,11 @@
 
 1.1 The Tournament is organized through the [Main Communication Channel](https://discord.gg/r6dS4D9edd) and the [Tournament Website](https://www.h3.gg/competitions/v2/81).
 
-1.2 The Tournament will be divided into 3 phases - the registration phase, the group phase, and the knockout phase
+1.2 The Tournament will be divided into 4 phases - the registration phase, the group phase, the alimination phase, and the knockout phase.
 
 1.3 Registration phase:
 
-- 1). The registration phase will last from 01/01/2024 to 15/01/2024 inclusive,
+- 1). The registration phase will last from 01/01/2024 to 22/01/2024 inclusive,
 - 2). The condition for joining the registration phase is to read and accept the Tournament Rules and register via the Tournament Website,
 - 3). there will be no tournament games during the registration phase,
 - 4). Joining the registration phase is a condition for participating in subsequent phases.
@@ -87,14 +87,16 @@
 
 1.4 Group phase:
 
-- 1). The group phase will start on January 16, 2024, its duration will be announced by the Committee on the day it starts, but it will not be less than the number of Players in the largest group multiplied by 7,
+- 1). The group phase will start on 24/01/2024, its duration will be announced by the Committee on the day it starts, but it will not be less than the number of Players in the largest group multiplied by 7,
 - 2). the condition for joining the group phase is joining the registration phase, no decision by the Committee on disqualification or ban from the Tournament, and respecting the provisions of the Regulations,
-- 3). in the group phase, players will be divided into groups of possibly equal sizes based on the elo ranking according to the Kammer's Ranking System,
+- 3). in the group phase, Players will be divided into groups of possibly equal sizes based on the elo ranking according to the Kammer's Ranking System,
+- 3b). 16 Players with highest rating according to Kammer's Ranking System will be exluded from participation in Group Phase,
 - 4). the number of Players assigned to each group will be determined after the registration phase based on the number of registered players, but will not be less than 4,
 - 5). the Matches will be played in a round-robin format within groups,
 - 6). Matches will be played in the Bo1 system,
 - 7). for a victory the player receives 1 point, in case of a defeat it is 0 points, in case of a draw the Match should be replayed,
 - 8). the two players with the highest number of points in each group become the winners of the phase,
+- 8b). Players mentioned in point 3b will be considered as winners as well,
 - 9). if two or more Players in one group score the same number of points, the result of direct Matches between these Players decides,
 - 10). in the case where the result of direct Matches does not allow for a clear indication of the winners (e.g. let three Players A, B and C be in one group and have the same number of points, Player A won the direct Match with Player B, B with C, and C of A) overtime should be played,
 - 11). overtime should be played on the h3dm3_nc template,
@@ -103,10 +105,20 @@
 - 13b). In special situations, this procedure can be performed without the presence of all the above-mentioned people, but the number of people present at the coin toss must be at least 3,
 - 14). the group phase will end on the expiry of the deadline set by the Committee in the Ruling.
 
-1.5 Knockout phase:
+1.5 Elimination phase:
 
-- 1). The knockout phase will start the day after the end of the group phase, its duration will be determined by the Committee along with the date of the end of the final of the knockout phase,
-- 2). The condition for joining the knockout phase is to win the group phase,
+- 1). The elimination phase will start the day after the end of the group phase, it will last for 2 weeks,
+- 2). The condition for joining the eliminations phase is to win the group phase,
+- 2b). 16 Players with highest rating according to Kammer's Ranking System will be exluded from participation in elimination phase,
+- 3). in the elimination phase, players will compete in pairs, which will be determined based on the number of points scored in the previous phase and in the second place in the Kammer Ranking System,
+- 4). Matches will be played in Best of Three system,
+- 5). Winner of Match becomes winner of the phase,
+- 5b). Players mentioned in point 2b will be considered as winners as well,
+
+1.6 Knockout phase:
+
+- 1). The knockout phase will start the day after the end of the elimination phase, its duration will be determined by the Committee along with the date of the end of the final of the knockout phase,
+- 2). The condition for joining the knockout phase is to win the elimination phase,
 - 3). in the knockout phase, players will compete in pairs, which will be determined based on the number of points scored in the previous phase and in the second place in the Kammer Ranking System,
 - 4). the double elimination system will be used in the knockout phase, therefore it will be divided into two phases: the upper bracket phase and the lower bracket phase,
 - 5). upper bracket phase:
