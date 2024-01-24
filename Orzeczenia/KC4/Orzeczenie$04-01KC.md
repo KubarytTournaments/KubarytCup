@@ -16,7 +16,7 @@
 
 ## 3. Postanowienia
 
-3.1 Podaję do wiadomości listę Graczy, którzy zgodnie z ustępem 3b). punktu 1.4 oraz ustępem 2b). punktu 1.2 Regulaminu zostali wyłączeni uczestnictwa w rozgrywkach w fazie grupowej oraz fazie eliminacji:
+3.1 Podaję do wiadomości listę Graczy, którzy zgodnie z ustępem 3b). punktu 1.4 oraz ustępem 2b). punktu 1.5 Regulaminu zostali wyłączeni uczestnictwa w rozgrywkach w fazie grupowej oraz fazie eliminacji:
 
 - Tyranuxus,
 - CzileraInżyniera,
