@@ -10,7 +10,7 @@
 
 ## 2. Wykładnia
 
-2.1 Punkt 0.6 Regulaminu uprawnia Komitet, do umieszczenia w Orzeczeniu informacji o, wykonaniu danej czynności, wynikajacej z Zasad Gry, jeżeli dana czynność nie jest żadną decyzją z punktu 1.4 Regulaminu Orzeczeń, jako decyzję z ustepu 8). punktu 1.4 Regulaminu Orzeczeń, o ile nie jest to sprzeczne z innymi Zasadami Gry. Zapis stosuje się do Orzeczenia Specjalnego odpowiednio.
+2.1 Punkt 0.6 Regulaminu uprawnia Komitet, do umieszczenia w Orzeczeniu informacji o, wykonaniu danej czynności, wynikajacej z Zasad Turnieju, jeżeli dana czynność nie jest żadną decyzją z punktu 1.4 Regulaminu Orzeczeń, jako decyzję z ustepu 8). punktu 1.4 Regulaminu Orzeczeń, o ile nie jest to sprzeczne z innymi Zasadami Turnieju. Zapis stosuje się do Orzeczenia Specjalnego odpowiednio.
 
 2.2 Decyzje wynikające z punktu 3.1 Orzeczenia Specjalnego #04-01KC, powinny zostać umieszczone w Orzeczeniu w punkcie `Postanowienia`,
 
