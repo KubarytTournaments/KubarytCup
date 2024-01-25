@@ -216,9 +216,11 @@
 
 ## 4. Restarts
 
-4.1 Red is the first that has to decide if they take a restart, blue is second. (If blue passes turn intending to take a restart, in order to not give it away, and then red does not take restart and ends turn, blue has to write 111 in the first 5 seconds after accepting his turn. After that time, blue has to play the map).
+4.1 On all mirror templates, both players have one subjective restart available on day one (111). In the remaining templates, each player has two subjective restarts on the first day (2 x 111) or one restart on the second day (1 x 112).
 
-4.2 Players can take technical restarts if:
+4.2 Red is the first that has to decide if they take a restart, blue is second. (If blue passes turn intending to take a restart, in order to not give it away, and then red does not take restart and ends turn, blue has to write 111 in the first 5 seconds after accepting his turn. After that time, blue has to play the map).
+
+4.3 Players can take technical restarts if:
 
 - The map is bugged, fe. a portal is missing*
 - There is a guard on the road that blocks the entire passage and defeating him will result in the loss of at least 70% of your army.
@@ -226,9 +228,9 @@
 
 **If the guard of the object is set incorrectly (it is possible to bypass it and use the object), a technical restart should not be performed, and the guard should be fought.*
 
-4.3 Technical restarsts can be used from 111 to 114 inclusive. If players can't reach an agreement about technical restart, decision must be consultated with the Judge
+4.4 Technical restarsts can be used from 111 to 114 inclusive. If players can't reach an agreement about technical restart, decision must be consultated with the Judge
 
-Early meeting restarts. If players interact with each other in early turns, each of them has the right to ask for a technical restart. The last day on which that is allowed is 116 for medium roads and 117 for fast roads. Interaction between players is defined as any battle between players, or taking over any object belonging to another player (empty mines, towns, etc.). Bear in mind, if simultaneous turns get interrupted, that does not mean an interaction happened. If by the time Blue finishes their turn, there was no interaction, there are no grounds for technical reset.
+4.5 Early meeting restarts. If players interact with each other in early turns, each of them has the right to ask for a technical restart. The last day on which that is allowed is 116 for medium roads and 117 for fast roads. Interaction between players is defined as any battle between players, or taking over any object belonging to another player (empty mines, towns, etc.). Bear in mind, if simultaneous turns get interrupted, that does not mean an interaction happened. If by the time Blue finishes their turn, there was no interaction, there are no grounds for technical reset.
 
 ## 5. End of the Party
 
