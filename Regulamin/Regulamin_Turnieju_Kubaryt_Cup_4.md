@@ -216,9 +216,11 @@
 
 ## 4. Restarty
 
-4.1 Pierwszy decyzję o restarcie podejmuje Gracz czerwony, a następnie Gracz niebieski. (Jeśli nastąpi sytuacja, kiedy Gracz niebieski odda turę z chęcią restartu, a następnie Gracz czerwony odda turę i nastąpi kolejny dzień, Gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie Gracz niebieski jest zobowiązany do grania mapy).
+4.1 Na wszystkich szablonach mirrorowych obaj gracze mają do dyspozycji po jednym subiektywnym restarcie w pierwszym dniu (111). Na pozostałych szablonach każdy z graczy ma do dyspozycji dwa subiektywne restarty w pierwszym dniu (2 x 111) lub jeden restart w dniu drugim (1 x 112).
 
-4.2 Graczom przysługją restarty techniczne, które dostępne są jeżeli:
+4.2 Pierwszy decyzję o restarcie podejmuje Gracz czerwony, a następnie Gracz niebieski. (Jeśli nastąpi sytuacja, kiedy Gracz niebieski odda turę z chęcią restartu, a następnie Gracz czerwony odda turę i nastąpi kolejny dzień, Gracz niebieski ma obowiązek podania decyzji o restarcie w czasie 5 sekund od zakończenia tury. Po tym czasie Gracz niebieski jest zobowiązany do grania mapy).
+
+4.3 Graczom przysługują restarty techniczne, które dostępne są jeżeli:
 
 - 1). Mapa jest zbugowana, np. brakuje jakiegoś portalu*,
 - 2). Na drodze znajduje się strażnik, który blokuje całe przejście, a pokonanie go będzie skutkowało utratą co najmniej 70% wojska,
@@ -226,9 +228,9 @@
 
 **Jeżeli strażnik obiektu jest źle ustawiony (da się go obejść i wykorzystać obiekt) nie należy się restart techniczny, a ze strażnikiem należy walczyć.*
 
-4.3 Restarty techniczne można wykorzystać od 111 do 115 włącznie. Jeżeli Gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
+4.4 Restarty techniczne można wykorzystać od 111 do 115 włącznie. Jeżeli Gracze nie mogą dojść do porozumienia co do restartu technicznego, decyzję należy skonsultować z Sędzią.
 
-4.4  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między Graczami w zbyt wczesnej turze, każdy z Graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między Graczami jest zdefiniowana jako jakakolwiek walka między Graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
+4.5  Restarty wczesnego spotkania. Jeśli nastąpi interakcja między Graczami w zbyt wczesnej turze, każdy z Graczy ma prawo zażądać technicznego restartu. Ostatni dzień kiedy może to nastąpić to 116 dla średnich dróg i 117 dla szybkich. Interakcja między Graczami jest zdefiniowana jako jakakolwiek walka między Graczami lub przejęcie obiektu należącego do innego gracza (puste kopalnie, miasta, etc.). Warto zaznaczyć że zerwanie tur symultanicznych nie oznacza że interakcja miała miejsce. Jeśli po zakończeniu tury niebieskiego nie doszło do interakcji, nie ma podstaw do stosowania tej reguły.
 
 ## 5. Zakończenie Partii
 
