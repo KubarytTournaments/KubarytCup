@@ -10,7 +10,7 @@
 
 - 6lm10f (author: Ercho),
 - h3dm3_nc (authors: CzileraInżyniera, Wnukos),
-- Kubaryt 1.3 (author: Kubaryt),
+- Kubaryt 1.3a (author: Kubaryt),
 - mt_Nebula 1.3 (author: Wnukos),
 - Sapphire 2.0 (author: Ercho).
 
@@ -19,7 +19,7 @@
 - 6lm10e,
 - 8lu6tp (author: Ignus),
 - h3dm3_nc,
-- Kubaryt 1.3,
+- Kubaryt 1.3a,
 - mt_MP 2.1 (author: Ravciozo, patch: Wnukos),
 - mt_Nebula 1.3,
 - Sapphire 2.0.
@@ -39,7 +39,7 @@
 | 6lm10f        | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 121                |
 | 8lu6tp        | L+U      | 2(+6)               | Medium    | Strong           | 160%       | 17:00+06:30+01:15 | 117                |
 | h3dm3_nc      | L+U      | 2                   | Medium    | Strong           | 160%       | 20:00+07:00+01:15 | 115                |
-| Kubaryt 1.3   | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 122                |
+| Kubaryt 1.3a   | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 122                |
 | mt_MP 2.1     | M+U      | 2                   | Medium    | Strong           | 130%       | 14:00+06:00+01:15 | 116                |
 | mt_Nebula 1.3 | XL+U     | 2(+6)               | Fast      | Strong           | 160%       | 20:00+07:30+01:15 | 117                |
 | Sapphire 2.0 | XL+U     | 2(+6)               | Medium    | Strong           | 160%       | 18:00+07:00+01:15 | 121                |
