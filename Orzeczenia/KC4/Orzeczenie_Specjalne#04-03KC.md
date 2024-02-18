@@ -1,8 +1,8 @@
 # <img src="https://github.com/KubarytTournaments/KubarytCup/blob/English/Logo/logo-kc4.png" alt="logokc4" style="width: 20%; height: auto;"> <br>Kubaryt Cup 4 <br>Komitet Sędziowski
 
-<p align="right">22/01/2024</p>
+<p align="right">18/02/2024</p>
 
-<h1 align="center">Orzeczenie Specjalne #04-02KC</h1>
+<h1 align="center">Orzeczenie Specjalne #04-03KC</h1>
 
 ## 1. Kary
 
