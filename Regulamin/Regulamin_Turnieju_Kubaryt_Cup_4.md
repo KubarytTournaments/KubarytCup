@@ -109,7 +109,7 @@
 - 1). Faza eliminacji rozpocznie się dzień po zakończeniu fazy grupowej, jej czas trwania będzie wynosił 2 tygodnie,
 - 2). warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie grupowej,
 - 2b). z udziału w fazie eliminacji wyłączonych zostanie 16 najlepszych Graczy wg Systemu Rankingowego Kammera
-- 3). w fazie eliminacji Gracze zmierzą się w parach, które zostaną ustalone na podstawie liczby punktów zdobytych w poprzedniej fazie oraz w drugiej kolejnośći Systemu Rankingowego Kammer,
+- 3). w fazie eliminacji Gracze zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w grupach w poprzedniej fazie oraz w drugiej kolejnośći Systemu Rankingowego Kammer,
 - 4). Mecze rozgrywane będą w systemie Bo3,
 - 5). W pryzpadku zwycięstwa Gracz zostaje zwycięzcą fazy,
 - 5b). Za zwycięzców fazy uznaje się rownież Graczy wymienionych w ustępie 2b).,
@@ -118,7 +118,7 @@
 
 - 1). Faza pucharowa rozpocznie się dzień po zakończeniu fazy eliminacji, jej czas trwania zostanie określony przez Komitet wraz z podaniem dnia zakończenia finału,
 - 2). warunkiem dołączenia do fazy pucharowej jest zwycięstwo w fazie eliminacji,
-- 3). w fazie pucharowej gracze zmierzą się w parach, które zostaną ustalone na podstawie liczby punktów zdobytych w poprzedniej fazie oraz w drugiej kolejnośći Systemu Rankingowego Kammer,
+- 3). w fazie pucharowej gracze zmierzą się w parach, które zostaną ustalone na podstawie miejsc zajętych w grupach w fazie grupowej oraz w drugiej kolejnośći Systemu Rankingowego Kammer,
 - 4). w fazie pucharowej zostanie zastosowany system podwójnej eliminacji, w związku z tym zostanie ona podzielona na 2 fazy: fazę górnej drabinki i fazę dolnej drabinki,
 - 5). faza górnej drabinki:
 
