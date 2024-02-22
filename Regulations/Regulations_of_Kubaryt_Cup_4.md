@@ -110,7 +110,7 @@
 - 1). The elimination phase will start the day after the end of the group phase, it will last for 2 weeks,
 - 2). The condition for joining the eliminations phase is to win the group phase,
 - 2b). 16 Players with highest rating according to Kammer's Ranking System will be exluded from participation in elimination phase,
-- 3). in the elimination phase, players will compete in pairs, which will be determined based on the number of points scored in the previous phase and in the second place in the Kammer Ranking System,
+- 3). in the elimination phase, players will compete in pairs, which will be determined based on the places taken in the previous phase and in the second place in the Kammer Ranking System,
 - 4). Matches will be played in Best of Three system,
 - 5). Winner of Match becomes winner of the phase,
 - 5b). Players mentioned in point 2b will be considered as winners as well,
@@ -119,7 +119,7 @@
 
 - 1). The knockout phase will start the day after the end of the elimination phase, its duration will be determined by the Committee along with the date of the end of the final of the knockout phase,
 - 2). The condition for joining the knockout phase is to win the elimination phase,
-- 3). in the knockout phase, players will compete in pairs, which will be determined based on the number of points scored in the previous phase and in the second place in the Kammer Ranking System,
+- 3). in the knockout phase, players will compete in pairs, which will be determined based on the places taken in group phase and in the second place in the Kammer Ranking System,
 - 4). the double elimination system will be used in the knockout phase, therefore it will be divided into two phases: the upper bracket phase and the lower bracket phase,
 - 5). upper bracket phase:
 
