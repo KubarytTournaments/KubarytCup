@@ -44,7 +44,7 @@
 - Krzynsztof,
 - michaleklos.
 
-4.2 I annouce the Kammer Rating System table, with marked basket in group phase drawing [Link](https://docs.google.com/spreadsheets/d/1RR9a0Y6uyttQpr_e5auyu9WK7jYTHh2ktEsxACrzsWE/edit#gid=0).
+4.2 I annouce the Kammer Rating System table, with marked places in group phase, and with pairs in elimination phase. [Link](https://docs.google.com/spreadsheets/d/1RR9a0Y6uyttQpr_e5auyu9WK7jYTHh2ktEsxACrzsWE/edit#gid=0).
 
-### <p align="right">SK Jakub "Kubaryt" Starzyk</p>
+### <p align="right">CC Jakub "Kubaryt" Starzyk</p>
 <div align="right"><img src="https://media.discordapp.net/attachments/1022538414328913930/1136284542727110656/image-removebg-preview_3.png" alt="parafka" style="height: auto; width:200px; float:right;"/></div> 
