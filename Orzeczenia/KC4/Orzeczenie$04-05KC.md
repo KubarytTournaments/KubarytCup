@@ -6,7 +6,7 @@
 
 ## 1. Kary
 
-1.1 W związku z nieobecnością w czasie trwającej Partii z Graczem `Bartosz` (aka Pretor), wynoszącą godzinę i 20 minut, czyli godzinę dłużej niż zapowiedziana nieobecność, zostaje on ukarany walkowerem na Partię. Nie oznacza to jednak walkowera na cały Mecz Bo3.
+1.1 W związku z nieobecnością Gracza `Xarizu` w czasie trwającej Partii z Graczem `Bartosz` (aka Pretor), wynoszącą godzinę i 20 minut, czyli godzinę dłużej niż zapowiedziana nieobecność, zostaje on ukarany walkowerem na Partię. Nie oznacza to jednak walkowera na cały Mecz Bo3.
 
 Graczom przypomina się o możliwości odwołania się od decyzji sędziego, zgodnie z punktem 6.4 Regulaminu.
 
